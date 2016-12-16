@@ -1,7 +1,7 @@
 # Summary
 
 * [Coding & Cocktails: The Tools](README.md)
-* [Web Browser: Google Chrome](your-web-browser---google-chrome.md)
+* [Web Browser: Google Chrome](web-browser---google-chrome.md)
 * [Version Control: Git](version-control---git.md)
 * [Command Line: iTerm2 with oh-my-zsh & Git Bash](command-line---git-bash--iterm2-with-oh-my-zsh.md)
 * [Text Editor\/Development Environment: Atom](text-editordevelopment-environment---atom.md)

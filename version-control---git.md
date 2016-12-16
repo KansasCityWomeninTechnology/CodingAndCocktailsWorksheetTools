@@ -2,6 +2,16 @@
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 
+&lt;!--sec data-title="Windows" data-id="section0" data-show=true ces--&gt;
+
+
+
+Insert markdown content here \(you should start with h3 if you use heading\).
+
+
+
+&lt;!--endsec--&gt;
+
 * Download Git:\([https://git-scm.com/downloads](https://git-scm.com/downloads)\). Click on the icon that represents **your operating system**.
 
 ![](export/assets/image05png.png)
