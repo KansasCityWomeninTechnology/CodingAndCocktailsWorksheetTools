@@ -1,24 +1,12 @@
-&lt;html&gt;
+\#Coding & Cocktails Session 1:
 
-&lt;div&gt;
+\#\#\# Introduction to HTML {\#html}
 
-&lt;div&gt;
+&lt;hr class="inline"&gt; !\[Coding & Cocktails Logo\]\(assets/codingcocktailsbadge-200.png\)
 
-&lt;h1&gt;Coding & Cocktails:&lt;/h1&gt;
 
-&lt;h2&gt;The Tools&lt;/h2&gt;
 
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;img src="assets/logo.png" alt="Coding & Cocktails" /&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/html&gt;
+\#\#\#Overview
 
 During the sessions, we’ll be using some programs and accounts to help with your coding. These are the tools many developers use on a regular basis.
 
