@@ -1,8 +1,10 @@
+ ![](/assets/logo.png)
+
 # Coding & Cocktails:
 
 ## The Tools
 
---- ![](/assets/logo.png)
+### 
 
 ### Overview
 
