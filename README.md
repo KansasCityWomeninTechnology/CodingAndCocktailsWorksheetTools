@@ -2,7 +2,7 @@
 
 ## The Tools
 
---- !\[Coding & Cocktails Logo\]\(assets/codingcocktailsbadge-200.png\)
+--- ![](/assets/logo.png)
 
 ### Overview
 
