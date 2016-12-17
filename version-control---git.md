@@ -1,16 +1,10 @@
+![](/assets/gitLogo.png)
+
 # Install Git
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 
-&lt;!--sec data-title="Windows" data-id="section0" data-show=true ces--&gt;
 
-
-
-Insert markdown content here \(you should start with h3 if you use heading\).
-
-
-
-&lt;!--endsec--&gt;
 
 * Download Git:\([https://git-scm.com/downloads](https://git-scm.com/downloads)\). Click on the icon that represents **your operating system**.
 
@@ -28,15 +22,11 @@ You may wish to select the option to add an icon to your desktop to make it easi
 
   * Open the Git folder and **right-click on the Git Bash Icon**, and look for an option to “pin to Start” and “pin to taskbar”. These will make it easy to get to when you want to use it.
 
-
-
 * The last step is to configure Git so that you can use it with GitHub later.
 
   * Windows users, open Git Bash. \(Mac users, you’ll want to do this in iTerm2 AFTER you install it in the next section\) . The dollar sign is your prompt. First, you set your user name with the command git config --global user.name "Your Name" \(replacing Your Name with your own name, but leaving the quotation marks around it\)
 
   * Second, use command git config --global user.email youremail@example.com \(replacing the sample with your actual email\) to set your email address in Git.
-
-
 
 
 
