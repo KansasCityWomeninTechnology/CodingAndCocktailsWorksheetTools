@@ -15,6 +15,8 @@ Next, to get the most out of Atom, you’ll want to install some additional plug
 ###Suggested Plugins:
 Go to the `Atom` menu and choose `Preferences`.  This will open the settings where you'll choose `Install` from the left side
 
+![](/assets/atomSettings.png)
+
   * **Emmet** – speed up your coding with auto completion in HTML and CSS code
   
     Search for `emmet` and click the `Install` button
