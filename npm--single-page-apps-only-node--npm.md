@@ -7,5 +7,7 @@ npm is a package manager for JavaScript packages.  This allows you to manage and
 ###Node
 In Google Chrome go to [https://nodejs.org/en/](https://nodejs.org/en/)
 
+Check that you have correctly installed Node by running the command `node --version` in your command line tool (Git Bash for windows or iTerm2 for macs)
+
 ###npm
 npm is installed with Node.  Check that you have npm installed in your command line tool (Git Bash for windows or iTerm2 for macs) with the command `npm --version`

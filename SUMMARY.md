@@ -7,6 +7,6 @@
 * [Text Editor: Atom](text-editordevelopment-environment---atom.md)
 * [Organization: CodingAndCocktails Directory](organization---codingandcocktails-folder.md)
 * [User Accounts: GitHub, Slack & Codecademy](user-accounts---github-slack--codecademy.md)
-* [CSS COMPILERS ONLY: Ruby](css-compilers-only---ruby.md)
-* [NPM & SINGLE PAGE APPS ONLY: Node & npm](npm--single-page-apps-only-node--npm.md)
+* [NOT YET NEEDED](css-compilers-only---ruby.md)
+* [NOT YET NEEDED](npm--single-page-apps-only-node--npm.md)
 
