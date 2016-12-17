@@ -22,8 +22,8 @@ Git is version control software. It helps us keep track of different versions of
       2. At the prompt set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
 
       3. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
-
-   2. **OPTIONAL:** Now that Git is installed, you could add it to your Start menu and taskbar to make it easier to find.
+      
+2. **OPTIONAL:** Now that Git is installed, you could add it to your Start menu and taskbar to make it easier to find.
 
       1. Navigate to where the program was installed.  Check here first: `C:\Program Files \(x86\)\Git`
 
