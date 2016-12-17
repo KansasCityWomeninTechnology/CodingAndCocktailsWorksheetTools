@@ -31,6 +31,9 @@ The default command line tool on macs is called "Terminal."  For a better experi
 4. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
 ![](assets/image11png.png)
 
+
+####Oh-my-zsh benefits
+
 Oh-my-zsh helps identify certain things with different colors. Here are some of the colors you might run across.
 
 * Your arrow indicating your prompt will be green.
