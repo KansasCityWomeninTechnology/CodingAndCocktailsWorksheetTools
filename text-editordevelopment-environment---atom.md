@@ -5,43 +5,44 @@ Atom is the Integrated Development Environment \(IDE\) we use. After downloading
 
 1. Install Atom - [https://atom.io/](https://atom.io/)
 
-2. Follow the prompts as they appear and click **Finish** when prompted to complete the installation.
+2. Download the file then open it and follow the prompts as they appear. Click **Finish** when prompted to complete the installation.
 
 
 ####Configuring Atom:
 
 Next, to get the most out of Atom, you’ll want to install some additional plugins. If you have ever downloaded and installed a custom font to use in your word processing program, installing plugins is similar. They are additional features that can be individually installed to enhance your experience.
 
-* Additional plugins:Press ctrl+shift+p \(Windows\) or cmd+shift+p \(Mac\) to open the Command Palette Search for “Package Control: Install Package” and press **enter** when you find it. Then package control will open a list of available packages/plugins for you to install.
+####Suggested Plugins:
+Go to the `Atom` menu and choose `Preferences`.  This will open the settings where you'll choose `Install` from the left side
 
-  * Emmet \([https://github.com/sergeche/emmet-sublime\#how-to-install](https://github.com/sergeche/emmet-sublime#how-to-install)\) – quickly generate html/xml/css code
+  * **Emmet** – speed up your coding with auto completion in HTML and CSS code
+  
+    Search for `emmet` and click the `Install` button
 
-  * BracketHighlighter \([http://facelessuser.github.io/BracketHighlighter/](http://facelessuser.github.io/BracketHighlighter/)\) – view matching opening/closing brackets easily in the gutter \(left side\)
+  * atom-beautify
 
-  * ColorPicker \([http://weslly.github.io/ColorPicker/](http://weslly.github.io/ColorPicker/)\) – insert/change/select colors
+  * ColorPicker – insert/change/select colors
 
-  * SublimeLinter \([https://github.com/SublimeLinter/SublimeLinter-for-ST2](https://github.com/SublimeLinter/SublimeLinter-for-ST2)\) – **Note:** must have node.js \([https://nodejs.org/](https://nodejs.org/)\) installed on Windows if you are working with javascript or CSS
-
-  * Markdown Editing \([http://sublimetext-markdown.github.io/MarkdownEditing/](http://sublimetext-markdown.github.io/MarkdownEditing/)\)/ Markdown Preview \([https://github.com/revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview)\) - create and preview markdown formatting
+  * file-icon
 
 
 
 * * Make it look pretty with themes
 
-    * Soda \([http://buymeasoda.github.io/soda-theme/](http://buymeasoda.github.io/soda-theme/)\) is a popular theme that comes in light and dark versions.
+    * Soda 
 
-    * Dracula \([https://github.com/zenorocha/dracula-theme\#sublime-text](https://github.com/zenorocha/dracula-theme#sublime-text)\) theme is colorful and fun
+    * Dracula 
+    
+    * Seti
+    
+    * Monokai
 
 
 
 
-**Note:** To uninstall a package open Command Palette and search for “Package Control: Remove Package.” Then select the package you’d like to uninstall.
+* To uninstall a package open the settings like we did above.  Choose `Packages` from the settings menu and search for the package you’d like to uninstall.  Click on the `Uninstall` button.
 
-Using Sublime - Helpful Shortcuts to Get You Started
-
-* Re-indent: indents the selected section properly for easier readability
-
-  * ctrl/cmd+shift+p - then search for “reindent”
+Using Atom - Helpful Shortcuts to Get You Started
 
 * Keyboard Shortcuts
 
@@ -71,6 +72,9 @@ Using Sublime - Helpful Shortcuts to Get You Started
 
   * Shift-tab to remove a leading tab for the currently selected text
 
+* Re-indent: indents the selected section properly for easier readability
+
+  * ctrl/cmd+shift+p - then search for “reindent”
 
 
 * Move lines up or down: ctrl + shift + up or down arrows \(windows\) OR ctrl + cmd + up or down arrows \(mac\)
