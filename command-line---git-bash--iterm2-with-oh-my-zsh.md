@@ -10,7 +10,7 @@ The default command line tool in windows is the "Command Prompt." You can find i
 
 <!--endsec-->
 
-<!--sec data-title="Mac" data-id="section0" data-show=true data-collapse=true ces-->
+<!--sec data-title="Mac" data-id="section1" data-show=true data-collapse=true ces-->
 
 ####iTerm2 + oh-my-zsh
 
