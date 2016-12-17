@@ -40,6 +40,4 @@ Oh-my-zsh helps identify certain things with different colors. Here are some of 
 
 * If you have uncommitted changes made in the repository that you’re in you’ll see a yellow x symbol at the end of your prompt ine.
 
-
-
-
+<!--endsec-->
