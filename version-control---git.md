@@ -13,21 +13,20 @@ Git is version control software. It helps us keep track of different versions of
 3. It will guide you through several screens. You can accept the suggested selections.
 
 4. **WINDOWS ONLY: **
+   
    1. The last step is to configure Git so that you can use it with GitHub later
 
+      1. Open Git Bash.  The `$` is your prompt.
 
-      1. Open Git Bash.  The \`$\` is your prompt.
+      2. At the prompt set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
 
-      2. At the prompt set your user name by running the command \`git config --global user.name "Your Name"\` replacing the text \`Your Name\` with your own first and last name, keeping the quotation marks.
-
-      1. Next, set your user email addres by running the command \`git config --global user.email youremail@example.com\` replacing \`youremail@example.com\` with your own actual email address.
+      3. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
 
    2. **OPTIONAL:** Now that Git is installed, you could add it to your Start menu and taskbar to make it easier to find.
 
+      1. Navigate to where the program was installed.  Check here first: `C:\Program Files \(x86\)\Git`
 
-      1. Navigate to where the program was installed.  Check here first: \`C:\Program Files \(x86\)\Git\`
-
-      2. Open the Git folder and right-click on the Git Bash icon.  Look for the "pin to Start" and "pin to taskbar" options. These will make it easy to get to when you want to use it.
+      2. Open the Git folder and right-click on the Git Bash icon.  Look for the **"pin to start"** and **"pin to taskbar"** options. These will make it easy to get to when you want to use it.
 
 
 
