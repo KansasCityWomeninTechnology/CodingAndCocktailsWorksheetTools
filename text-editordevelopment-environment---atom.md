@@ -14,8 +14,7 @@ Next, to get the most out of Atom, you’ll want to install some additional plug
 
 ###Suggested Plugins:
 Go to the `Atom` menu and choose `Preferences`.  This will open the settings where you'll choose `Install` from the left side
-
-![](/assets/atomSettings.png)
+![](/assets/packageInstall.png)
 
   * **Emmet** – speed up your coding with auto completion in HTML and CSS code
   
@@ -35,7 +34,10 @@ Go to the `Atom` menu and choose `Preferences`.  This will open the settings whe
 
 
 
-*  Make it look pretty with **themes**. Click on the `Themes` button next to the search area to try searching for themes instead of packages.  Some popular themes include:
+*  Make it look pretty with **themes**. Click on the `Themes` button next to the search area to try searching for themes instead of packages.  
+![](/assets/themeInstall.png)
+
+  Some popular themes include:
 
     * Soda 
 
@@ -46,6 +48,7 @@ Go to the `Atom` menu and choose `Preferences`.  This will open the settings whe
     * Monokai
     
   *Hint: click on the individual theme sections in the search results to view an example of the theme colors*
+  ![](/assets/viewTheme.png)
 
 
 ###Uninstall a Package:
