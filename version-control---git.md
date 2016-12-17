@@ -12,6 +12,10 @@ Git is version control software. It helps us keep track of different versions of
 
 3. It will guide you through several screens. You can accept the suggested selections.
 
+<!--sec data-title="Windows" data-id="section0" data-show=true ces-->
+Insert markdown content here (you should start with h3 if you use heading).
+<!--endsec-->
+
 4. **WINDOWS ONLY: **
    
    1. The last step is to configure Git so that you can use it with GitHub later
