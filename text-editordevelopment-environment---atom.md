@@ -8,26 +8,32 @@ Atom is the Integrated Development Environment \(IDE\) we use. After downloading
 2. Download the file then open it and follow the prompts as they appear. Click **Finish** when prompted to complete the installation.
 
 
-####Configuring Atom:
+###Configuring Atom:
 
 Next, to get the most out of Atom, you’ll want to install some additional plugins. If you have ever downloaded and installed a custom font to use in your word processing program, installing plugins is similar. They are additional features that can be individually installed to enhance your experience.
 
-####Suggested Plugins:
+###Suggested Plugins:
 Go to the `Atom` menu and choose `Preferences`.  This will open the settings where you'll choose `Install` from the left side
 
   * **Emmet** – speed up your coding with auto completion in HTML and CSS code
   
     Search for `emmet` and click the `Install` button
 
-  * atom-beautify
+  * **Atom Beautify** - beautify your code.  This means it will add indentations for you to make your code better organized and easier to read.
+  
+    Search for `atom-beautify` and click the `Install` button
 
-  * ColorPicker – insert/change/select colors
+  * **Color Picker** – select colors from within your code
+  
+    Search for `color-picker` and click the `Install` button
 
-  * file-icon
+  * **File Icons** - display colorful icons in your projet folder display to quickly identify file types
+  
+    Search for `file-icons` and click the `Install` button
 
 
 
-* * Make it look pretty with themes
+*  Make it look pretty with **themes**. Click on the `Themes` button next to the search area to try searching for themes instead of packages.  Some popular themes include:
 
     * Soda 
 
@@ -36,50 +42,42 @@ Go to the `Atom` menu and choose `Preferences`.  This will open the settings whe
     * Seti
     
     * Monokai
+    
+  *Hint: click on the individual theme sections in the search results to view an example of the theme colors*
 
 
-
+###Uninstall a Package:
 
 * To uninstall a package open the settings like we did above.  Choose `Packages` from the settings menu and search for the package you’d like to uninstall.  Click on the `Uninstall` button.
 
-Using Atom - Helpful Shortcuts to Get You Started
+###Using Atom
+####Helpful Shortcuts to Get You Started
 
-* Keyboard Shortcuts
+#####Keyboard Shortcuts
 
-  * select all: ctrl/cmd + a
-
-  * cut: ctrl/cmd + x
-
-  * copy: ctrl/cmd + c
-
-  * paste: ctrl/cmd + v
-
-  * undo: ctrl/cmd + z
-
-  * save: ctrl/cmd + s
-
-  * sublime command palette: ctrl/cmd + shift + p
-
-
-
-* Splitting the Screen
-
-  * 1 - 4 columns: alt+shift+ 1-4 \(windows\) or option + cmd + 1-4 \(mac\)
-
-  * 2 - 3 rows: alt + shift + 8 or 9 \(windows\) OR opt + shift + cmd + 2 or 3 \(mac\)
-
-  * Grid of 4: alt + shift + 5 \(windows\) OR opt + cmd + 5 \(mac\)
-
-  * Shift-tab to remove a leading tab for the currently selected text
-
-* Re-indent: indents the selected section properly for easier readability
-
-  * ctrl/cmd+shift+p - then search for “reindent”
+| Command | Windows Key Combination | Mac Key Combination |
+| -- | -- | -- |
+| Select all | `ctrl` + `a` | `cmd` + `a` |
+| Cut | `ctrl` + `x` | `cmd` + `x` |
+| Copy | `ctrl` + `c` | `cmd` + `c` |
+| Paste | `ctrl` + `v` | `cmd` + `v` |
+| Undo | `ctrl` + `z` | `cmd` + `z` |
+| Save | `ctrl` + `s` | `cmd` + `s` |
+| Comment selected lines | `ctrl` + `/` | `cmd` + `/` |
+| Untab one or more lines | `shift` + `tab` | `shift` + `tab` |
+| Move a line up or down | `ctrl` + `shift` + `up or down arrow keys` | `ctrl` + `cmd` + `up or down arrow keys` |
+| Multi-cursor - make edits in several places at once. | `ctrl` + `d` | `cmd` + `d` |
+| Wrap a tag around other content | `ctrl` + `alt` + `w` | `ctrl` + `w` |
 
 
-* Move lines up or down: ctrl + shift + up or down arrows \(windows\) OR ctrl + cmd + up or down arrows \(mac\)
+#####Splitting the Screen
 
-* Multi cursor - make edits in several places at once: ctrl/cmd+d
+  * Open the `View` menu, choose the `Panes` option  then choose how you want to split your screen.
+  
+
+
+
+
 
 
 
