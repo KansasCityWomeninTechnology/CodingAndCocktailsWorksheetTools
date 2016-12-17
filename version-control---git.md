@@ -12,13 +12,8 @@ Git is version control software. It helps us keep track of different versions of
 
 3. It will guide you through several screens. You can accept the suggested selections.
 
-<!--sec data-title="Windows" data-id="section0" data-show=true ces-->
-Insert markdown content here (you should start with h3 if you use heading).
-<!--endsec-->
-
-4. **WINDOWS ONLY: **
-   
-   1. The last step is to configure Git so that you can use it with GitHub later
+<!--sec data-title="Windows Only" data-id="section0" data-show=true ces-->
+1. The last step is to configure Git so that you can use it with GitHub later
 
       1. Open Git Bash.  The `$` is your prompt.
 
@@ -31,6 +26,15 @@ Insert markdown content here (you should start with h3 if you use heading).
       1. Navigate to where the program was installed.  Check here first: `C:\Program Files \(x86\)\Git`
 
       2. Open the Git folder and right-click on the Git Bash icon.  Look for the **"pin to start"** and **"pin to taskbar"** options. These will make it easy to get to when you want to use it.
+
+
+
+
+<!--endsec-->
+
+4. **WINDOWS ONLY: **
+   
+   
 
 
 
