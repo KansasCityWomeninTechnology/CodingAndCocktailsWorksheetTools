@@ -6,7 +6,7 @@ Git is version control software. It helps us keep track of different versions of
 
 1. Download Git:\([https://git-scm.com/downloads](https://git-scm.com/downloads)\). Click on the icon that represents **your operating system**
 
-   ![Git Download Image](/_book/assets/image05png.png)
+   ![Git Download Image](/assets/image05png.png)
 
    > This takes you to a new page and should automatically start downloading the newest version of the software. Although they offer 32-bit and 64-bit options, you should be able to take the one they suggest as a default.
    
