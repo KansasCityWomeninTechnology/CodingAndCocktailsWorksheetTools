@@ -1,11 +1,12 @@
-![](/assets/gitLogo.png)
+![Git Logo](/assets/gitLogo.png)
 
 # Install Git
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 
 1. Download Git:\([https://git-scm.com/downloads](https://git-scm.com/downloads)\). Click on the icon that represents **your operating system**
-   ![](/_book/assets/image05png.png)
+
+   ![Git Download Image](/_book/assets/image05png.png)
 
    > This takes you to a new page and should automatically start downloading the newest version of the software. Although they offer 32-bit and 64-bit options, you should be able to take the one they suggest as a default.
 2. Navigate to your Downloads folder and find the Git download. Click to open it and allow it to make changes to your computer.
@@ -27,12 +28,7 @@ Git is version control software. It helps us keep track of different versions of
 
       2. Open the Git folder and right-click on the Git Bash icon.  Look for the **"pin to start"** and **"pin to taskbar"** options. These will make it easy to get to when you want to use it.
 
-
-
-
 <!--endsec-->
-
-4. **WINDOWS ONLY: **
    
    
 
