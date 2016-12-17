@@ -14,7 +14,7 @@ Git is version control software. It helps us keep track of different versions of
 
 3. It will guide you through several screens. You can accept the suggested selections.
 
-<!--sec data-title="Windows Only" data-id="section0" data-show=true ces-->
+<!--sec data-title="Windows Only" data-id="section0" data-show=true data-collapse=true ces-->
 1. The last step is to configure Git so that you can use it with GitHub later
 
       1. Open Git Bash.  The `$` is your prompt.
