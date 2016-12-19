@@ -1,5 +1,5 @@
 ![](assets/atomLogo.png)
-#Atom
+#Text Editor: Atom
 
 Atom is the Integrated Development Environment \(IDE\) we use. After downloading we will configure it with extra tools called _plugins_ that will make your coding life easier.
 

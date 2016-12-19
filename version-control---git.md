@@ -1,6 +1,6 @@
 
 
-# Install Git
+# Version Control: Install Git
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 

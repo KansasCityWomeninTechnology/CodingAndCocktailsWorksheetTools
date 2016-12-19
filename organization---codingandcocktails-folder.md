@@ -1,4 +1,4 @@
-# Create a Folder For Coding & Cocktails Work
+# Organization: Create a Folder For Coding & Cocktails Work
 
 > We use the terms `Folder` and `Directory` interchangably.  They mean the same thing
 
