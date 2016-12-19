@@ -1,4 +1,4 @@
-![](/assets/Slack.png) ![](/assets/GitHub-Mark-120px-plus.png) ![](/assets/codecademy.svg)
+![](/assets/Slack.png) ![](/assets/GitHub-Mark-120px-plus.png)  ![](/assets/codecademy.svg)
 
 # User Accounts: Slack, GitHub & Codecademy
 
