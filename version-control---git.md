@@ -1,4 +1,4 @@
-![Git Logo](/assets/gitLogo.png)
+
 
 # Install Git
 
