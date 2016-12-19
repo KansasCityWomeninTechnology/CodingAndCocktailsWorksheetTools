@@ -1,4 +1,4 @@
-
+![](/assets/git.png)
 
 # Version Control: Install Git
 
