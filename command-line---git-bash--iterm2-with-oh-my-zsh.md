@@ -34,11 +34,9 @@ The default command line tool on macs is called "Terminal."  For a better experi
 
 5. The last step is to configure Git so that you can use it with GitHub later
 
-      1. Open iTerm2.  The green arrow is your prompt.
+      1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
 
-      2. At the prompt set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
-
-      3. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
+      2. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
 
 
 
