@@ -53,6 +53,6 @@ Oh-my-zsh helps identify certain things with different colors. Here are some of 
 
 * If you’re in a git repository your branch name will be displayed in a salmon color.
 
-* If you have uncommitted changes made in the repository that you’re in you’ll see a yellow x symbol at the end of your prompt ine.
+* If you have uncommitted changes made in the repository that you’re in you’ll see a yellow x symbol at the end of your prompt line.
 
 <!--endsec-->
