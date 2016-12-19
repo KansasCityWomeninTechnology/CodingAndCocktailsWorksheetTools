@@ -73,6 +73,10 @@ Go to the `Atom` menu and choose `Preferences`.  This will open the settings whe
 | Move a line up or down | `ctrl` + `shift` + `up or down arrow keys` | `ctrl` + `cmd` + `up or down arrow keys` |
 | Multi-cursor - make edits in several places at once. | `ctrl` + `d` | `cmd` + `d` |
 | Wrap a tag around other content | `ctrl` + `alt` + `w` | `ctrl` + `w` |
+| Open Preferences | `ctrl` + `,` | `cmd` + `,` |
+
+
+
 
 
 #####Splitting the Screen
