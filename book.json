@@ -1,5 +1,10 @@
 {
     "plugins": [
-        "sectionx"
-    ]
+        "sectionx",
+        "custom-favicon"
+    ],
+    "pluginsConfig" : {
+        "favicon": "assets/favicon.ico"
+    }
+
 }
