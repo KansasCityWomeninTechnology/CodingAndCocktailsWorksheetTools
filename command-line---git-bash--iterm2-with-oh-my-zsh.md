@@ -31,6 +31,15 @@ The default command line tool on macs is called "Terminal."  For a better experi
 4. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
 ![](assets/image11png.png)
 
+5. The last step is to configure Git so that you can use it with GitHub later
+
+      1. Open iTerm2.  The green arrow is your prompt.
+
+      2. At the prompt set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
+
+      3. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
+
+
 
 ####Oh-my-zsh benefits
 

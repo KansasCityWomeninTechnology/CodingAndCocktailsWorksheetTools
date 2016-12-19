@@ -4,7 +4,7 @@
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 
-1. Download Git:\([https://git-scm.com/downloads](https://git-scm.com/downloads)\). Click on the icon that represents **your operating system**
+1. Download Git:[https://git-scm.com/downloads](https://git-scm.com/downloads). Click on the icon that represents **your operating system**
 
    ![Git Download Image](/assets/image05png.png)
 
