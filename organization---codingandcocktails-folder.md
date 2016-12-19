@@ -10,7 +10,7 @@ Create a folder in your home directory called `CodingAndCocktails` We’ll creat
 
 If you want to challenge yourself try creating the directory via the command line instead of through your file explorer!
 
-1. Open your command line tool (Git Bash for windows, iTerm2 for macs)
+1. Open your command line tool (On windows machines: **Git Bash**, on macs: **iTerm2**)
 2. Navigate to your home directory by running the command `cd ~`
 
     `cd` stands for change directory
