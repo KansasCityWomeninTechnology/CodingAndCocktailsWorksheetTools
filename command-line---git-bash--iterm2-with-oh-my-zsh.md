@@ -32,7 +32,7 @@ The default command line tool on macs is called "Terminal."  For a better experi
 4. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
 ![](assets/image11png.png)
 
-5. The last step is to configure Git so that you can use it with GitHub later
+5. Now that we have the tool to interact with the command line we need to configure our Git version control we installed on the previous page so that you can use it with GitHub later
 
       1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
 
