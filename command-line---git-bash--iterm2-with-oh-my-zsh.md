@@ -7,9 +7,9 @@ The command prompt is what we use to enter specific commands for some of our too
 
 ####Git Bash
 
-The default command line tool in windows is the "Command Prompt." You can find it by going to Start&gt;Programs and looking for “Command Prompt”. You can also find it through Windows explorer. However, the windows command prompt does not offer much flexibility and functionality. 
+The default command line tool in windows is the "Command Prompt." You can find it by going to Start&gt;Programs and looking for “Command Prompt”. You can also find it through Windows explorer. 
 
-Because of this, we will use Git Bash, which was installed as a part of your Git installation in the previous step.
+However, the windows command prompt does not offer much flexibility and functionality. Because of this, we will use Git Bash, which was installed as a part of your Git installation in the previous step.
 
 <!--endsec-->
 
