@@ -1,6 +1,6 @@
 ![](/assets/Slack.png) ![](/assets/GitHub-Mark-120px-plus.png)  ![](/assets/codecademy.svg)
 
-# User Accounts: Slack, GitHub & Codecademy
+# User Accounts: Slack, GitHub, Codecademy & CodePen
 
 Coding & Cocktails supports your own efforts to learn to code. Therefore, in between sessions, you will want to continue to practice on your own. We refer to these sites often in the sessions as critical tools that we use to help learn to code. The accounts are free unless you choose to buy a premium subscription but that is not necessary for anything we do here.
 
@@ -14,6 +14,14 @@ Coding & Cocktails supports your own efforts to learn to code. Therefore, in bet
 * **Github**: [https://github.com/](https://github.com/) - this is the essential cloud-based companion tool to Git. This is where your code repositories will be stored.
 
 * **Codecademy**: [https://www.codecademy.com](https://www.codecademy.com) - provides easy to follow, hands-on lessons on many of the topics covered in class.
+
+* **CodePen**: [https://www.codepen.io](https://www.codepen.io) - Write HTML, CSS, and JavaScript and get a real-time preview.
+
+
+
+
+
+
 
 
 

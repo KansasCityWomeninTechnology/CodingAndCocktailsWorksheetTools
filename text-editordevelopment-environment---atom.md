@@ -12,14 +12,15 @@ Atom is the Integrated Development Environment \(IDE\) we use. After downloading
 
 Next, to get the most out of Atom, you’ll want to install some additional plugins. If you have ever downloaded and installed a custom font to use in your word processing program, installing plugins is similar. They are additional features that can be individually installed to enhance your experience.
 
-###Suggested Plugins:
+###Required Plugins:
 Go to the `Atom` menu and choose `Preferences`.  This will open the settings where you'll choose `Install` from the left side
 ![](/assets/packageInstall.png)
 
   * **Emmet** – speed up your coding with auto completion in HTML and CSS code
   
     Search for `emmet` and click the `Install` button
-
+    
+###Suggested Plugins:
   * **Atom Beautify** - beautify your code.  This means it will add indentations for you to make your code better organized and easier to read.
   
     Search for `atom-beautify` and click the `Install` button
