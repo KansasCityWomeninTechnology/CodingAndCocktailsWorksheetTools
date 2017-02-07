@@ -1,7 +1,8 @@
 {
     "plugins": [
         "sectionx",
-        "custom-favicon"
+        "custom-favicon",
+        "hints"
     ],
     "pluginsConfig" : {
         "favicon": "assets/favicon.ico"
