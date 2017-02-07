@@ -50,9 +50,15 @@ Git is version control software. It helps us keep track of different versions of
              
              2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
              
-             3. When prompted enter the password that you use to login to your computer.  
+             3. When prompted enter the password that you use to login to your computer.
              
+             {% hint style='tip' %}
+             It may look like you’re not typing anything in but this is because it doesn’t want to display your password on the screen for security. Just type your full password and press enter.
+             {% endhint %}
              
+             4. Let the process complete.  When finished type `brew -v`.  This should display the version number that you have installed.  
+
+
 
 2. Install Git
       
