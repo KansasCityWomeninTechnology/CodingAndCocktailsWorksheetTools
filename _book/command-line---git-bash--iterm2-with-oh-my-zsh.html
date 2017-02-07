@@ -25,6 +25,10 @@
                 
             
                 
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-hints/plugin-hints.css">
+                
+            
+                
                 <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
                 
             
@@ -65,10 +69,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="text-editordevelopment-environment---atom.html" />
+    <link rel="next" href="version-control---git.html" />
     
     
-    <link rel="prev" href="version-control---git.html" />
+    <link rel="prev" href="web-browser---google-chrome.html" />
     
 
     </head>
@@ -123,12 +127,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="version-control---git.html">
+        <li class="chapter active" data-level="1.3" data-path="command-line---git-bash--iterm2-with-oh-my-zsh.html">
             
-                <a href="version-control---git.html">
+                <a href="command-line---git-bash--iterm2-with-oh-my-zsh.html">
             
                     
-                    Version Control: Git
+                    Command Line Tools: iTerm2 + oh-my-zsh & Git Bash
             
                 </a>
             
@@ -136,12 +140,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.4" data-path="command-line---git-bash--iterm2-with-oh-my-zsh.html">
+        <li class="chapter " data-level="1.4" data-path="version-control---git.html">
             
-                <a href="command-line---git-bash--iterm2-with-oh-my-zsh.html">
+                <a href="version-control---git.html">
             
                     
-                    Command Line Tools: iTerm2 + oh-my-zsh & Git Bash
+                    Version Control: Git
             
                 </a>
             
@@ -193,7 +197,7 @@
                 <a href="css-compilers-only---ruby.html">
             
                     
-                    NOT YET NEEDED
+                    Windows Only: Ruby 
             
                 </a>
             
@@ -264,8 +268,8 @@
 <p>The command prompt is what we use to enter specific commands for some of our tools, such as when we use Git for version control. While point-and-click programs work for many daily uses, when it comes to programming eventually you will need to use the command line to take advantage of the most powerful tools your computer has to offer, so we teach you to get comfortable with it right from the beginning.</p>
 <sec data-title="Windows" data-id="section0" data-show="true" data-collapse="true"><div class="panel panel-default"><div class="panel-heading"><h2 id="windows">Windows<a class="pull-right section atTitle btn btn-default" target="section0"><span class="fa fa-angle-up"></span></a></h2></div><div class="panel-collapse in" id="section0"><div class="panel-body">
 <h4 id="git-bash">Git Bash</h4>
-<p>The default command line tool in windows is the &quot;Command Prompt.&quot; You can find it by going to Start&gt;Programs and looking for &#x201C;Command Prompt&#x201D;. You can also find it through Windows explorer. However, the windows command prompt does not offer much flexibility and functionality. </p>
-<p>Because of this, we will use Git Bash, which was installed as a part of your Git installation in the previous step.</p>
+<p>The default command line tool in windows is the &quot;Command Prompt.&quot; You can find it by going to Start&gt;Programs and looking for &#x201C;Command Prompt&#x201D;. You can also find it through Windows explorer. </p>
+<p>However, the windows command prompt does not offer much flexibility and functionality. Because of this, we will use Git Bash, which will be installed as a part of your Git installation in the next step: Version Control: Git.</p>
 </div></div></div></sec>
 <sec data-title="Mac" data-id="section1" data-show="true" data-collapse="true"><div class="panel panel-default"><div class="panel-heading"><h2 id="mac">Mac<a class="pull-right section atTitle btn btn-default" target="section1"><span class="fa fa-angle-up"></span></a></h2></div><div class="panel-collapse in" id="section1"><div class="panel-body">
 <h4 id="iterm2--oh-my-zsh">iTerm2 + oh-my-zsh</h4>
@@ -280,22 +284,11 @@
 </ul>
 </li>
 <li><p>When prompted for a password enter the password that you use to login to your computer. </p>
-<blockquote>
-<p>It may look like you&#x2019;re not typing anything in but this is because it doesn&#x2019;t want to display your password on the screen for security. Just type your full password and press enter.</p>
-</blockquote>
+<p>   <div class="alert alert-success hints-alert"><div class="hints-icon"><i class="fa fa-mortar-board"></i></div><div class="hints-container"><pre><code>  It may look like you&#x2019;re not typing anything in but this is because it doesn&#x2019;t want to display your password on the screen for security. Just type your full password and press enter.
+</code></pre></div></div></p>
 </li>
 <li><p>When the process is complete your screen should look similar to the following (note the display in ascii art that oh my zsh &#x2026;.is now installed and you have a nice colorful arrow prompt):
 <img src="assets/image11png.png" alt=""></p>
-</li>
-<li><p>The last step is to configure Git so that you can use it with GitHub later</p>
-<ol>
-<li><p>Open iTerm2.  The green arrow is your prompt.</p>
-</li>
-<li><p>At the prompt set your user name by running the command <code>git config --global user.name &quot;Your Name&quot;</code> replacing the text <code>Your Name</code> with your own first and last name, keeping the quotation marks.</p>
-</li>
-<li><p>Next, set your user email addres by running the command <code>git config --global user.email youremail@example.com</code> replacing <code>youremail@example.com</code> with your own actual email address.</p>
-</li>
-</ol>
 </li>
 </ol>
 <h4 id="oh-my-zsh-benefits">Oh-my-zsh benefits</h4>
@@ -308,7 +301,7 @@
 </li>
 <li><p>If you&#x2019;re in a git repository your branch name will be displayed in a salmon color.</p>
 </li>
-<li><p>If you have uncommitted changes made in the repository that you&#x2019;re in you&#x2019;ll see a yellow x symbol at the end of your prompt line.</p>
+<li><p>If you have uncommitted version control changes made in the repository that you&#x2019;re in, you&#x2019;ll see a yellow x symbol at the end of your prompt line.</p>
 </li>
 </ul>
 </div></div></div></sec>
@@ -339,12 +332,12 @@
 
             
                 
-                <a href="version-control---git.html" class="navigation navigation-prev " aria-label="Previous page: Version Control: Git">
+                <a href="web-browser---google-chrome.html" class="navigation navigation-prev " aria-label="Previous page: Web Browser: Google Chrome">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="text-editordevelopment-environment---atom.html" class="navigation navigation-next " aria-label="Next page: Text Editor: Atom">
+                <a href="version-control---git.html" class="navigation navigation-next " aria-label="Next page: Version Control: Git">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -355,7 +348,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Command Line Tools: iTerm2 + oh-my-zsh & Git Bash","level":"1.4","depth":1,"next":{"title":"Text Editor: Atom","level":"1.5","depth":1,"path":"text-editordevelopment-environment---atom.md","ref":"text-editordevelopment-environment---atom.md","articles":[]},"previous":{"title":"Version Control: Git","level":"1.3","depth":1,"path":"version-control---git.md","ref":"version-control---git.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["sectionx","custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"command-line---git-bash--iterm2-with-oh-my-zsh.md","mtime":"2016-12-19T14:00:05.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-19T13:56:51.448Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Command Line Tools: iTerm2 + oh-my-zsh & Git Bash","level":"1.3","depth":1,"next":{"title":"Version Control: Git","level":"1.4","depth":1,"path":"version-control---git.md","ref":"version-control---git.md","articles":[]},"previous":{"title":"Web Browser: Google Chrome","level":"1.2","depth":1,"path":"web-browser---google-chrome.md","ref":"web-browser---google-chrome.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["sectionx","custom-favicon","hints","livereload"],"pluginsConfig":{"livereload":{},"search":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"command-line---git-bash--iterm2-with-oh-my-zsh.md","mtime":"2017-02-07T02:49:13.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-02-08T02:29:07.542Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
