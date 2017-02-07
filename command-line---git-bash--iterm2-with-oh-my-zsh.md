@@ -27,18 +27,13 @@ The default command line tool on macs is called "Terminal."  For a better experi
 ![](assets/image07png.png)
 
 3. When prompted for a password enter the password that you use to login to your computer. 
->It may look like you’re not typing anything in but this is because it doesn’t want to display your password on the screen for security. Just type your full password and press enter.
+
+      {% hint style='tip' %}
+      It may look like you’re not typing anything in but this is because it doesn’t want to display your password on the screen for security. Just type your full password and press enter.
+      {% endhint %}
 
 4. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
 ![](assets/image11png.png)
-
-5. Now that we have the tool to interact with the command line we need to configure our Git version control we installed on the previous page so that you can use it with GitHub later
-
-      1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
-
-      2. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
-
-
 
 ####Oh-my-zsh benefits
 
@@ -51,6 +46,6 @@ Oh-my-zsh helps identify certain things with different colors. Here are some of 
 
 * If you’re in a git repository your branch name will be displayed in a salmon color.
 
-* If you have uncommitted changes made in the repository that you’re in you’ll see a yellow x symbol at the end of your prompt line.
+* If you have uncommitted version control changes made in the repository that you’re in, you’ll see a yellow x symbol at the end of your prompt line.
 
 <!--endsec-->
