@@ -44,7 +44,7 @@ Git is version control software. It helps us keep track of different versions of
       
       ![](/assets/homebrew.png)
       
-      3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt.
+      3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt. Press enter and complete the installation.
 
 2. 
    
