@@ -4,6 +4,8 @@
 
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project.
 
+<!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
+
 1. Download Git:[https://git-scm.com/downloads](https://git-scm.com/downloads). Click on the icon that represents **your operating system**
 
    ![Git Download Image](/assets/image05png.png)
@@ -14,8 +16,7 @@ Git is version control software. It helps us keep track of different versions of
 
 3. It will guide you through several screens. You can accept the suggested selections.
 
-<!--sec data-title="Windows Only" data-id="section0" data-show=true data-collapse=true ces-->
-1. The last step is to configure Git so that you can use it with GitHub later
+4. The last step is to configure Git so that you can use it with GitHub later
 
       1. Open Git Bash.  The `$` is your prompt.
 
@@ -30,6 +31,18 @@ Git is version control software. It helps us keep track of different versions of
       2. Open the Git folder and right-click on the Git Bash icon.  Look for the **"pin to start"** and **"pin to taskbar"** options. These will make it easy to get to when you want to use it.
 
 <!--endsec-->
+
+<!--sec data-title="Mac" data-id="section1" data-show=true data-collapse=true ces-->
+
+1. Install Homebrew - a package manager to install and manage development software you'll use. 
+
+      1. In Google Chrome, navigate to [http://brew.sh/](http://brew.sh/)
+      
+      2. Open iTerm2 that you installed in the last step.
+      
+      2. Copy the text underneath 
+
+2. 
    
    
 
