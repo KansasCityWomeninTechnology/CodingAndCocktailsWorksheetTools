@@ -40,9 +40,11 @@ Git is version control software. It helps us keep track of different versions of
 
       1. In Google Chrome, navigate to [http://brew.sh/](http://brew.sh/)
       
-      2. Open iTerm2 that you installed in the last step.
+      2. Copy the text underneath the "Install Homebrew" header.
       
-      2. Copy the text underneath 
+      ![](/assets/homebrew.png)
+      
+      3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt.
 
 2. 
    
