@@ -49,21 +49,23 @@ Git is version control software. It helps us keep track of different versions of
       
       3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt and press enter.
       
-             1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.
-             
-             ![](/assets/license.png)
-             
-             2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
-             
-             3. When prompted, type in the password that you use to login to your computer.
-             
-             {% hint style='tip' %}
-             It may look like you’re not typing anything in but this is because it doesn’t want to display your password on the screen for security. Just type your full password and press enter.
-             {% endhint %}
-             
-             4. The process will run for a few minutes until it is complete.  When finished type `brew -v`.  This should display the version number of homebrew that you have installed. Your screen should look similar to the following: 
-             
-             ![](/assets/brew_done.png)
+            1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.
+            
+            ![](/assets/license.png)
+            
+            2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
+            
+            3. When prompted, type in the password that you use to login to your computer.
+            
+            {% hint style='tip' %}
+            It may look like you’re not typing anything in but this is 
+            because it doesn’t want to display your password on the screen 
+            for security. Just type your full password and press enter.
+            {% endhint %}
+            
+            4. The process will run for a few minutes until it is complete.  When finished type `brew -v`.  This should display the version number of homebrew that you have installed. Your screen should look similar to the following:
+            
+            ![](/assets/brew_done.png)
 
 2. Install Git
       
