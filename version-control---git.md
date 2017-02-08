@@ -58,7 +58,7 @@ Git is version control software. It helps us keep track of different versions of
              
              4. The process will run for a few minutes until it is complete.  When finished type `brew -v`.  This should display the version number of homebrew that you have installed. Your screen should look similar to the following: 
              
-             
+             ![](/assets/brew_done.png)
 
 2. Install Git
       
