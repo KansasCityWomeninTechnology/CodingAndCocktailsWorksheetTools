@@ -64,9 +64,9 @@ Git is version control software. It helps us keep track of different versions of
       
       1. In iTerm2, type `brew install git` and press enter.
       
-      2. Wait for the install to complete.
+      2. When the process completes, type `git --version` at the arrow prompt to ensure Git was properly installed.  If it is properly installed you should see something like `git version 2.8.3` returned.
       
-      3. Now that we have the tool to interact with the command line we need to configure our Git version control we installed on the previous page so that you can use it with GitHub later
+      3. Now we need to configure our Git version control so that you can use it with GitHub later
 
             1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
 
