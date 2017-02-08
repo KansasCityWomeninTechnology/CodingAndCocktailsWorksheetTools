@@ -30,7 +30,8 @@ The default command line tool on macs is called "Terminal."  For a better experi
 
       {% hint style='tip' %}
       It may look like you’re not typing anything in but this is because it 
-      doesn’t want to display your password on the screen for security. Just type your full password and press enter.
+      doesn’t want to display your password on the screen for security. 
+      Just type your full password and press enter.
       {% endhint %}
 
 4. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
