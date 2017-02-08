@@ -11,10 +11,10 @@ Git is version control software. It helps us keep track of different versions of
    ![Git Download Image](/assets/image05png.png)
 
       {% hint style='tip' %}
-      This takes you to a new page and should automatically start downloading 
-      the newest version of the software. Although they offer 32-bit and 
-      64-bit options, you should be able to take the one they suggest 
-      as a default.
+      This takes you to a new page and should automatically start 
+      downloading the newest version of the software. Although they 
+      offer 32-bit and 64-bit options, you should be able to take the 
+      one they suggest as a default.
       {% endhint %}
    
 2. Navigate to your Downloads folder and find the Git download. Click to open it and allow it to make changes to your computer.
