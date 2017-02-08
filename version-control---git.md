@@ -46,7 +46,9 @@ Git is version control software. It helps us keep track of different versions of
       
       3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt and press enter.
       
-             1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.  
+             1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.
+             
+             ![](/assets/license.png)
              
              2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
              
