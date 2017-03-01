@@ -8,7 +8,7 @@ We use the terms `Folder` and `Directory` interchangably.  They mean the same th
 Your home directory is typically `/users/yourname` on a mac or `C:/Users/yourname` on a windows machine
 {% endhint %}
 
-Create a folder in your home directory called `CodingandCocktails` We’ll create folders here for our different projects throughout the year. 
+Create a folder in your home directory called `CodingAndCocktails` We’ll create folders here for our different projects throughout the year. 
 
 If you want to challenge yourself try creating the directory via the command line instead of through your file explorer!
 
@@ -21,7 +21,7 @@ If you want to challenge yourself try creating the directory via the command lin
 `~` is a shortcut for your home directory
     {% endhint %}
     
-3. Create your CodingandCocktails directory by running the command `mkdir CodingandCocktails`
+3. Create your CodingAndCocktails directory by running the command `mkdir CodingAndCocktails`
 
     {% hint style='tip' %}
 `mkdir` stands for make directory
@@ -29,7 +29,7 @@ If you want to challenge yourself try creating the directory via the command lin
 Then you provide the name of the directory that you want to create
     {% endhint %}
     
-4. If you want to move into that directory use the `cd` command to get there: `cd CodingandCocktails`    
+4. If you want to move into that directory use the `cd` command to get there: `cd CodingAndCocktails`    
 
 {% hint style='info' %}
 Most command line terminals (including the ones we use) are not case sensitive - but a few are! For our purposes, a folder named CodingAndCocktails is the same as one named codingandcocktails.
