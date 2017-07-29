@@ -5,6 +5,8 @@ Node is a JavaScript runtime - this means where JavaScript used to be confined t
 npm is a package manager for JavaScript packages.  This allows you to manage and use code from other developers so you don't have to reinvent the wheel and can reuse handy bits of code for common functionality.
 
 ### Node
+Click on the arrow (^) below to expand the section for your operating system.
+
 <!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
 1. In Google Chrome go to [nodejs.org/en/download](https://nodejs.org/en/download/).
 
