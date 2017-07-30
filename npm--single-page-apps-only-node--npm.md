@@ -26,21 +26,23 @@ Click on the arrow (^) below to expand the section for your operating system.
 <!--sec data-title="Mac" data-id="section1" data-show=true data-collapse=true ces-->
 1. In iTerm2, type `brew -v`. 
 
-    If a number is output, proceed with step 2.
+    * If a number is output, proceed with step 2.
+        ![](/assets/brew-version.png)
 
-    If you receive a command not found message you'll need to install Homebrew as directed in the [Version Control: Git](/version-control---git.md) section. 
+    * If you receive a command not found message you'll need to install Homebrew as directed in the [Version Control: Git](/version-control---git.md) section. 
 
 2. In iTerm2, type `brew update` to ensure Homebrew is up to date.
 
 3. In iTerm2, type `brew doctor` to make sure your system is ready to brew. Grab a mentor to talk through any messages you get from this step that you aren't sure about. 
+    ![](/assets/brew-doctor.png)
     
 4. In iTerm2, type `brew install node` to install Node.
 
 5. In iTerm 2, type `node --version`. 
 
-    If a number is output, Node is installed and you can proceed with the npm section below.
+    * If a number is output, Node is installed and you can proceed with the npm section below.
 
-    If you receive a command not found message you'll need to troubleshoot what went wrong during your install - grab a mentor to help!  
+    * If you receive a command not found message you'll need to troubleshoot what went wrong during your install - grab a mentor to help!  
 <!--endsec-->
 
 ### npm
