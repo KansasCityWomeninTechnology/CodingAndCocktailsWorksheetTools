@@ -41,6 +41,7 @@ Click on the arrow (^) below to expand the section for your operating system.
 5. In iTerm 2, type `node --version`. 
 
     * If a number is output, Node is installed and you can proceed with the npm section below.
+    ![](/assets/node-version.png)
 
     * If you receive a command not found message you'll need to troubleshoot what went wrong during your install - grab a mentor to help!  
 <!--endsec-->
