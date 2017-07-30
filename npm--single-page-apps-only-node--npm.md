@@ -8,17 +8,20 @@ npm is a package manager for JavaScript packages.  This allows you to manage and
 Click on the arrow (^) below to expand the section for your operating system.
 
 <!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
-1. In Google Chrome go to [nodejs.org/en/download](https://nodejs.org/en/download/).
 
-2.Click on the Windows Installer option and the installer will download: 
-![](/assets/node-install.png)
+1. In Google Chrome go to [nodejs.org/en/download](https://nodejs.org/en/download/).
+    ![](/assets/node-install.png)
+
+2. Click on the Windows Installer option and the installer will download: 
+
 3. Run through the installer using the default options provided.
+
 4. In Git Bash, check that you have correctly installed Node by typing `node --version`. 
 
-    If a number is output, Node is installed and you can proceed with the npm section below.
+    * If a number is output, Node is installed and you can proceed with the npm section below.
     ![](/assets/node-version.png)
 
-    If you receive a command not found message you'll need to troubleshoot what went wrong during your install - grab a mentor to help!  
+    * If you receive a command not found message you'll need to troubleshoot what went wrong during your install - grab a mentor to help!  
 <!--endsec-->
 
 <!--sec data-title="Mac" data-id="section1" data-show=true data-collapse=true ces-->
