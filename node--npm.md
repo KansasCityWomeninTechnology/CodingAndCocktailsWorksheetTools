@@ -9,16 +9,14 @@ Click on the arrow (^) below to expand the section for your operating system.
 
 <!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
 
-1. In Google Chrome go to [nodejs.org/en/download](https://nodejs.org/en/download/). 
+1. In Google Chrome go to [nodejs.org/en/download/current](https://nodejs.org/en/download/current/). 
 
-2. Click on the "Current Latest Features" tab. 
-
-3. Click on the "Windows Installer" option and the installer will download:
+2. Click on the "Windows Installer" option and the installer will download:
 ![](/assets/node-windows.png)
 
-4. Run through the installer using the default options provided.
+3. Run through the installer using the default options provided.
 
-5. In Git Bash, check that you have correctly installed Node by typing `node --version`. 
+4. In Git Bash, check that you have correctly installed Node by typing `node --version`. 
 
     * If a number is output, Node is installed and you can proceed with the npm section below.
     ![](/assets/node-version.png)
