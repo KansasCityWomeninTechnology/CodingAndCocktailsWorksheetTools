@@ -14,7 +14,7 @@ Next, to get the most out of Atom, you’ll want to install some additional plug
 
 ### Required Plugins:
 
-For Mac, go to the `Atom` menu and choose `Preferences`.  In Windows, you can select `Preferences` under the `File` menu. This will open the settings where you'll choose `Install` from the left side  
+For Mac, navigate to `Atom` menu and select `Preferences`.  In Windows, navigate to `File` menu and select `Settings`. This will open the settings where you'll choose `Install` from the left side  
 ![](/assets/packageInstall.png)
 
 * **Emmet** – speed up your coding with auto completion in HTML and CSS code
