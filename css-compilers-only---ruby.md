@@ -1,6 +1,6 @@
 # RUBY \(Windows Users Only\)
 
->Mac users can skip this section because Ruby already comes installed on your operating system. 
+> Mac users can skip this section because Ruby already comes installed on your operating system.
 
 To use Sass, Windows users need to install the Ruby programming language. Ruby allows us to use SASS as a CSS compiler for our web pages.
 
@@ -10,6 +10,10 @@ To use Sass, Windows users need to install the Ruby programming language. Ruby a
 
 * Select the language, accept the license, and take note of where it suggests that you load the application - probably here: `C:\Ruby22-x64`.
 
+
+
+* [ ] step 1
+* [ ] step 2
 
 
 
