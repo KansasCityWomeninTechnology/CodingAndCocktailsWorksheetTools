@@ -12,8 +12,5 @@ To use Sass, Windows users need to install the Ruby programming language. Ruby a
 
 
 
-* [ ] step 1
-* [ ] step 2
-
 
 
