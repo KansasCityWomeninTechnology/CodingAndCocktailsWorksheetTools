@@ -5,11 +5,11 @@ However, the windows command prompt does not offer much flexibility and function
 Cmder also includes another tool we use, Git, all packaged together. 
 
 This section will help guide you through the following steps:
-- [ ] Download Cmder and create a folder in your home directory
-- [ ] Extract Cmder to the newly created folder
-- [ ] Install additional files required by Cmder
-- [ ] Verify installation by launching Cmder
-- [ ] Optional- Add Cmder to your **Start** menu 
+1. Download Cmder and create a folder in your home directory
+1. Extract Cmder to the newly created folder
+1. Install additional files required by Cmder
+1. Verify installation by launching Cmder
+1. Optional- Add Cmder to your **Start** menu 
 
 
 ### Download Cmder
@@ -31,7 +31,9 @@ If you can't find your home directory, type `%USERPROFILE%` in the file location
 Sort by "Date modified" if you can't easily find it.
 {% endhint %}
 1. Right click on "cmder" and select **Extract All...** and type in the location of your Cmder folder we created previously. Make sure "Show extracted files when complete" is checked and click on **Extract**. When extract is complete, the file explorer will show your Cmder folder.
+
 ![](assets/extract-to-destination.PNG)
+
 {% hint style='tip' %}
 Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you can't find the Cmder folder, type `%USERPROFILE%/Cmder`.
 {% endhint %}

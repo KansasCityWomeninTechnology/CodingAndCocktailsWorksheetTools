@@ -2,7 +2,7 @@
 
 * [Coding & Cocktails: The Tools](README.md)
 * [Web Browser: Google Chrome](web-browser---google-chrome.md)
-* [Command Line Tools: iTerm2 + oh-my-zsh & Git Bash](command-line---git-bash--iterm2-with-oh-my-zsh.md)
+* [Command Line Tools: iTerm2 + oh-my-zsh & Cmder](command-line.md)
 * [Version Control: Git](version-control---git.md)
 * [Text Editor: Atom](text-editordevelopment-environment---atom.md)
 * [Organization: CodingandCocktails Directory](organization---codingandcocktails-folder.md)
