@@ -5,7 +5,13 @@
         "hints"
     ],
     "pluginsConfig" : {
-        "favicon": "assets/favicon.ico"
+        "favicon": "assets/favicon.ico",
+        "hints": {
+            "info": "fa fa-info-circle fa-lg",
+            "tip": "fa fa-check-circle fa-lg",
+            "danger": "fa fa-exclamation-circle fa-lg",
+            "working": "fa fa-wrench fa-lg"
+        }
     }
 
 }

@@ -7,6 +7,6 @@
 * [Text Editor: Atom](text-editordevelopment-environment---atom.md)
 * [Organization: CodingandCocktails Directory](organization---codingandcocktails-folder.md)
 * [User Accounts: GitHub, Slack & Codecademy](user-accounts---github-slack--codecademy.md)
-* [Node.js & npm](node--npm.md)
-* [Windows Only: Ruby ](css-compilers-only---ruby.md)
+<!-- JAD TODO  Move to appropriate sessions* [Node.js & npm](node--npm.md)-->
+<!-- * [Windows Only: Ruby ](css-compilers-only---ruby.md)    -->
 

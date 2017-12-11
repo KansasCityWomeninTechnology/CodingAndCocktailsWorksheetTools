@@ -3,16 +3,16 @@
 # Organization: Create a Folder For Coding & Cocktails Work
 
 {% hint style='info' %}
-We use the terms `Folder` and `Directory` interchangably.  They mean the same thing
+We use the terms **"Folder"** and **"Directory"** interchangably.  They mean the same thing.
 
-Your home directory is typically `/users/yourname` on a mac or `C:/Users/yourname` on a windows machine
+Your home directory is typically `/users/yourname` on a Mac or `C:/Users/yourname` on a Windows machine.
 {% endhint %}
 
-Create a folder in your home directory called `CodingAndCocktails` We’ll create folders here for our different projects throughout the year. 
+Create a folder in your home directory called `CodingAndCocktails`. We’ll create folders here for our different projects throughout the year. 
 
 If you want to challenge yourself try creating the directory via the command line instead of through your file explorer!
 
-1. Open your command line tool (**Git Bash** for windows, **iTerm2** for macs)
+1. Open your command line tool (**Git Bash** for Windows, **iTerm2** for macs)
 2. Navigate to your home directory by running the command `cd ~`
 
     {% hint style='tip' %}
