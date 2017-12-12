@@ -2,8 +2,7 @@
     "plugins": [
         "sectionx",
         "custom-favicon",
-        "hints",
-        "tasklist"
+        "hints"
     ],
     "pluginsConfig" : {
         "favicon": "assets/favicon.ico",

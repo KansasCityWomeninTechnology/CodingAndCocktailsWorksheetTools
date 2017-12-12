@@ -5,8 +5,8 @@ However, the windows command prompt does not offer much flexibility and function
 Cmder also includes another tool we use, Git, all packaged together. 
 
 This section will help guide you through the following steps:
-* [ ] Download Cmder and create a folder in your home directory
-* [ ] Extract Cmder to the newly created folder
+1. Download Cmder and create a folder in your home directory
+1. Extract Cmder to the newly created folder
 1. Install additional files required by Cmder
 1. Verify installation by launching Cmder
 1. Optional- Add Cmder to your **Start** menu 
