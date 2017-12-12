@@ -7,6 +7,7 @@ Click on the arrow (^) below to expand the section for your operating system.
 
 <!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
 
+- [ ] Checklist testing in sectionx
 {% include "/cmder.md" %}
 
 <!--endsec-->
@@ -15,3 +16,11 @@ Click on the arrow (^) below to expand the section for your operating system.
 {% include "/iterm-ozsh.md" %}
 
 <!--endsec-->
+
+---
+- [ ] Test
+- [ ] Test2
+
+---
+{% include "/cmder.md" %}
+
