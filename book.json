@@ -3,7 +3,7 @@
         "sectionx",
         "custom-favicon",
         "hints",
-        "simpletabs"
+        "tasklist"
     ],
     "pluginsConfig" : {
         "favicon": "assets/favicon.ico",
