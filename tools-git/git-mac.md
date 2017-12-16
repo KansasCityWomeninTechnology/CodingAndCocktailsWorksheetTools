@@ -4,13 +4,13 @@
       
       2. Copy the text underneath the "Install Homebrew" header.
       
-      ![](assets/homebrew.png)
+      ![](images/homebrew.png)
       
       3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt and press enter.
       
             1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.
             
-            ![](assets/license.png)
+            ![](images/license.png)
             
             2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
             
@@ -24,7 +24,7 @@ for security. Just type your full password and press enter.
             
             4. The process will run for a few minutes until it is complete.  When finished type `brew -v`.  This should display the version number of homebrew that you have installed. Your screen should look similar to the following:
             
-            ![](assets/brew_done.png)
+            ![](images/brew_done.png)
 
 2. Install Git
       
