@@ -39,7 +39,7 @@ Sort by "Date modified" if you can't easily find it.
    ![](images/extract-to-destination.PNG)
 
    {% hint style='tip' %}
-Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you can't find it, type `%USERPROFILE%/Cmder`.
+Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you can't find it, type `%USERPROFILE%\Cmder`.
 {% endhint %}
 
 
