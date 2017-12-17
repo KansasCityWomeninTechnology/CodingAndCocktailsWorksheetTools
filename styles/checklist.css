@@ -1,0 +1,37 @@
+/**** Custom instructions  ****/
+.instructions {
+    font-size:1.0em;
+    background-color: #fceaf1;
+    border-radius: 5px;
+    border: 1px solid #ba99c0;
+    padding: 10px; 
+    color: #484e78;
+  }
+  
+  .instructions ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 0 10px;
+  }
+  
+  .instructions ul li {
+    margin-bottom: 8px;
+  }
+  
+  .instructions ul li:last-child {
+    margin-bottom: none;
+  }
+  
+  .instructions a {
+    color: #666b8f;
+  }
+  
+  .instructions a:hover {
+    color: #9d81a2;
+  }
+  
+  .section-name {
+    color: #484e78;
+    font-weight: bold;
+  }
+  

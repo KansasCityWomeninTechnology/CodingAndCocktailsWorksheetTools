@@ -1,18 +1,17 @@
-## iTerm2 + oh-my-zsh
+# iTerm2 + oh-my-zsh
 
 The default command line tool on Macs is called "Terminal".  For a better experience we will be using iTerm2 + oh-my-zsh
 
 This section will help guide you through the following steps:
-1. Download and install iTerm2
-1. Install oh-my-zsh and verify installation
+{% include "./navigation-iterm.html" %}
 
 
-### Download and install iTerm2
+## Download and install iTerm2 {#iterm2}
 1. Open the iTerm2 website by navigating to [https://www.iterm2.com/](https://www.iterm2.com/). 
 
 1. Click on "Download" and install.
 
-### Install oh-my-zsh
+## Install oh-my-zsh {#oh-my-zsh}
 1. Navigate to [https://github.com/robbyrussell/oh-my-zsh\#basic-installation](https://github.com/robbyrussell/oh-my-zsh#basic-installation). 
 
 1. Copy all of the text in the gray box under the `via  curl` text and paste it at the prompt in iTerm2 and press **&lt;Enter&gt;**[:](https://github.com/robbyrussell/oh-my-zsh#basic-installation)

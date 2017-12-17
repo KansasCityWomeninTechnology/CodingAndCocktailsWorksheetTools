@@ -1,4 +1,4 @@
-## Cmder
+# Cmder
 
 The default command line tool in windows is the "Command Prompt". You can find it by going to **Start**🡒**Programs** and searching for “Command Prompt”. You can also find it through Windows explorer. 
 
@@ -7,14 +7,10 @@ However, the windows command prompt does not offer much flexibility and function
 Cmder also includes another tool we use, Git, all packaged together. 
 
 This section will help guide you through the following steps:
-1. Download Cmder and create a folder in your home directory
-1. Extract Cmder to the newly created folder
-1. Install additional files required by Cmder
-1. Verify installation by launching Cmder
-1. Optional- Add Cmder to your **Start** menu 
+{% include "./navigation-cmder.html" %}
 
 
-### Download Cmder {#download}
+## Download Cmder {#download}
 1. Open the Cmder website by navigating to [https://www.cmder.net/](https://www.cmder.net/).
 
 1. Scroll down to the Download section and click on "Download Full" to download Cmder. This might take a while.
@@ -33,7 +29,7 @@ If you can't find your home directory, type `%USERPROFILE%` in the file location
 1. Rename the folder to _Cmder_.
 
 
-### Extract Cmder {#extract}
+## Extract Cmder {#extract}
 1. When download is complete, open your **Downloads** folder and find the compressed folder "cmder".
 {% hint style='tip' %}
 Sort by "Date modified" if you can't easily find it.
@@ -47,7 +43,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 {% endhint %}
 
 
-### Install additional required files {#install}
+## Install additional required files {#install}
 1.  Right click on Cmder application and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**.
 1. Cmder will display an warning dialog asking to install extra files. Click **Unblock and Continue**.
 
@@ -57,7 +53,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
    ![](images/cmder-install-complete.PNG)
 
 
-### Verify installation {#verify}
+## Verify installation {#verify}
 1. Close the Cmder dialog by typing "exit" and pressing **Enter** or by clicking on the X in the upper right corner.
 
 1. Search for "cmder" in your taskbar. Windows should suggest "Cmder.exe Desktop app" as a best match. Right click on it and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**.
@@ -66,12 +62,12 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 Always run Cmder as administrator. Doing so will ensure Cmder has file access it needs for session worksheets.
 {% endhint %} 
 
-1. Type `git --version` and verify the output looks similar to the picture below.
+1. Type `git --version`, press `Enter`, and verify the output looks similar to the picture below.
 
    ![](images/verify-git-installed.PNG)
 
 
-### Optional- Pin to Start menu {#optional-pin}
+## Optional- Pin to Start menu {#optional-pin}
 1. Using the **File Explorer** open the "Cmder" folder in your home directory. You probably already have this folder open from installation.
 
 1. Right click on Cmder application and select **Pin to Start**.
