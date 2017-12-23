@@ -6,7 +6,7 @@ This section will help guide you through the following steps:
 {% include "./navigation.html" %}
 
 ## Create a folder {#create-dir}
-Create a folder in your home directory called `CodingAndCocktails`. We’ll create folders here for our different projects throughout the year. 
+Create a folder in your home directory called "CodingAndCocktails". We’ll create folders here for our different projects throughout the year. 
 {% hint style='info' %}
 We use the terms **"Folder"** and **"Directory"** interchangably.  They mean the same thing.
 

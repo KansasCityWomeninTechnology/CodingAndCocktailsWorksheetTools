@@ -68,20 +68,20 @@ Always run Cmder as administrator. Doing so will ensure Cmder has file access it
 
 
 ## Optional- Pin to Start menu {#optional-pin}
-1. Using the **File Explorer** open the "Cmder" folder in your home directory. You probably already have this folder open from installation.
+1. Use the **File Explorer** to open the "Cmder" folder in your home directory. You probably already have this folder open from installation.
 
 1. Right click on Cmder application and select **Pin to Start**.
 
-1. When you start Cmder, right click on the pinned icon, select **More** then select **Run as administrator**.
+1. When you start Cmder, right click on the pinned icon, select **More** 🡒 **Run as administrator**.
 
 
 #### Cmder benefits
 
-Cmder helps identify certain things with different colors. Here are some of the colors you might run across.
+Cmder helps identify certain things with different symbols and colors. Here are some of the symbols and colors you might run across.
 
 * Your prompt will look like a lambda \(**λ**\).
 
-* The name of the directory \(aka folder\) you’re currently in will be displayed in olive-green 
+* The name of the directory \(aka folder\) you’re currently in will be displayed in olive-green. 
 
 * If you’re in a git repository your branch name will be displayed right after the name of the directory you're in.
 

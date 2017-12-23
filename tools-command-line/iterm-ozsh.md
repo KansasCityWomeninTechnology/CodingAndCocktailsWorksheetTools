@@ -14,18 +14,18 @@ This section will help guide you through the following steps:
 ## Install oh-my-zsh {#oh-my-zsh}
 1. Navigate to [https://github.com/robbyrussell/oh-my-zsh\#basic-installation](https://github.com/robbyrussell/oh-my-zsh#basic-installation). 
 
-1. Copy all of the text in the gray box under the `via  curl` text and paste it at the prompt in iTerm2 and press **&lt;Enter&gt;**[:](https://github.com/robbyrussell/oh-my-zsh#basic-installation)
+1. Copy all of the text in the gray box under the **via  curl** label and paste it at the prompt in iTerm2 and press `Enter`:(https://github.com/robbyrussell/oh-my-zsh#basic-installation)
 ![](images/image07png.png)
 
-1. When prompted for a password enter the password that you use to login to your computer. 
+1. Enter the password that you use to login to your computer when prompted.
 
       {% hint style='tip' %}
 It may look like you’re not typing anything in but this is because it 
-doesn’t want to display your password on the screen for security. 
-Just type your full password and press enter.
+doesn’t want to display your password on the screen for security reasons. 
+Just type your full password and press `Enter`.
       {% endhint %}
 
-1. When the process is complete your screen should look similar to the following \(note the display in ascii art that oh my zsh ….is now installed and you have a nice colorful arrow prompt\):
+1. When the process is complete your screen should look similar to the following \(note the display in ascii art stating "oh my zsh ….is now installed" and you have a nice colorful arrow prompt\):
 ![](images/image11png.png)
 
 
