@@ -72,7 +72,7 @@ Always run Cmder as administrator. Doing so will ensure Cmder has file access it
 
 1. Right click on Cmder application and select **Pin to Start**.
 
-1. When you start Cmder, right click on the pinned icon, select **More** 🡒 **Run as administrator**.
+1. When you start Cmder, right click on the pinned icon, select **More**🡒**Run as administrator**.
 
 
 #### Cmder benefits
