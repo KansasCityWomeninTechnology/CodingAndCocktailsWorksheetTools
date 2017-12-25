@@ -1,10 +1,10 @@
 # Cmder
 
-The default command line tool in windows is the "Command Prompt". You can find it by going to **Start**🡒**Programs** and searching for “Command Prompt”. You can also find it through Windows explorer. 
+The default command line tool in windows is the "Command Prompt". You can find it by going to **Start**🡒**Programs** and searching for “Command Prompt”. You can also find it through Windows explorer.
 
-However, the windows command prompt does not offer much flexibility and functionality. Because of this, we will use Cmder. 
+However, the windows command prompt does not offer much flexibility and functionality. Because of this, we will use Cmder.
 
-Cmder also includes another tool we use, Git, all packaged together. 
+Cmder also includes another tool we use, Git, all packaged together.
 
 This section will help guide you through the following steps:
 {% include "./navigation-cmder.html" %}
@@ -17,7 +17,7 @@ This section will help guide you through the following steps:
 
 1. While Cmder is downloading, let's get started on creating a folder by opening the **File Explorer**. You can do so by clicking on the yellow folder icon or searching for "File Explorer" in your task bar.
 
-1. Navigate to your home directory by typing it in your file location bar. It is usually `C:\Users\[Your Login Name]\`. 
+1. Navigate to your home directory by typing it in your file location bar. It is usually `C:\Users\[Your Login Name]\`.
 {% hint style='tip' %}
 If you can't find your home directory, type `%USERPROFILE%` in the file location bar and press `Enter`.
 {% endhint %}
@@ -34,7 +34,7 @@ If you can't find your home directory, type `%USERPROFILE%` in the file location
 {% hint style='tip' %}
 Sort by "Date modified" if you can't easily find it.
 {% endhint %}
-1. Right click on "cmder" and select **Extract All...** and type in the location of your Cmder folder we created previously. Make sure "Show extracted files when complete" is checked and click on **Extract**. When extract is complete, the file explorer will show your Cmder folder.
+1. Right click on "cmder" and select **Extract All...** and type in the location of your Cmder folder we created. Make sure to check "Show extracted files when complete" and click on **Extract**. When extract is complete, the file explorer will show your Cmder folder.
 
    ![](images/extract-to-destination.PNG)
 
@@ -60,7 +60,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 
    {% hint style='danger' %}
 Always run Cmder as administrator. Doing so will ensure Cmder has file access it needs for session worksheets.
-{% endhint %} 
+{% endhint %}
 
 1. Type `git --version`, press `Enter`, and verify the output looks similar to the picture below.
 
@@ -81,8 +81,8 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 
 * Your prompt will look like a lambda \(**λ**\).
 
-* The name of the directory \(aka folder\) you’re currently in will be displayed in olive-green. 
+* The name of the directory \(aka folder\) you’re in will displayed in olive-green.
 
-* If you’re in a git repository your branch name will be displayed right after the name of the directory you're in.
+* If you’re in a git repository your branch name will display right after the name of the directory you're in.
 
 * If you have uncommitted version control changes made in the repository that you’re in, the branch name will turn red.
