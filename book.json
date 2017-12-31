@@ -3,6 +3,7 @@
         "sectionx",
         "custom-favicon",
         "hints",
+        "codeblock-label",
         "anchors"
     ],
     "pluginsConfig" : {

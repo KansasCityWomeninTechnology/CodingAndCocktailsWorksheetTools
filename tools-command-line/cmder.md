@@ -1,6 +1,6 @@
 # Cmder
 
-The default command line tool in windows is the "Command Prompt". You can find it by going to **Start**🡒**Programs** and searching for “Command Prompt”. You can also find it through Windows explorer.
+The default command line tool in windows is the "Command Prompt". You can find it by going to **Start** <i class="fa fa-long-arrow-right"></i> **Programs** and searching for “Command Prompt”. You can also find it through Windows explorer.
 
 However, the windows command prompt does not offer much flexibility and functionality. Because of this, we will use Cmder.
 
@@ -11,7 +11,7 @@ This section will help guide you through the following steps:
 
 
 ## Download Cmder {#download}
-1. Open the Cmder website by navigating to [https://www.cmder.net/](https://www.cmder.net/).
+1. Open the Cmder website by navigating to [http://www.cmder.net/](http://www.cmder.net/).
 
 1. Scroll down to the Download section and click on "Download Full" to download Cmder. This might take a while.
 
@@ -72,11 +72,10 @@ Always run Cmder as administrator. Doing so will ensure Cmder has file access it
 
 1. Right click on Cmder application and select **Pin to Start**.
 
-1. When you start Cmder, right click on the pinned icon, select **More**🡒**Run as administrator**.
+1. When you start Cmder, right click on the pinned icon, select **More** <i class="fa fa-long-arrow-right"></i> **Run as administrator**.
 
 
-#### Cmder benefits
-
+{% hint style='info' %}
 Cmder helps identify certain things with different symbols and colors. Here are some of the symbols and colors you might run across.
 
 * Your prompt will look like a lambda \(**λ**\).
@@ -86,3 +85,5 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 * If you’re in a git repository your branch name will display right after the name of the directory you're in.
 
 * If you have uncommitted version control changes made in the repository that you’re in, the branch name will turn red.
+{% endhint %}
+

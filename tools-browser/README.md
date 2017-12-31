@@ -1,5 +1,10 @@
-![](images/chrome_logo_2x.png)
+<img src="images/Google_Chrome_logo.png" width="250" />
 
 # Web Browser: Google Chrome
 
-We use Google Chrome as our web browser.  Browsers often have differences in support of emerging web standards and Google Chrome is often on the leading edge of supporting these new features. Google Chrome is also one of the faster browsers.  You can download it here: [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html)
+We use Google Chrome as our web browser.  
+
+Browsers often have differences in support of emerging web standards and Google Chrome is often on the leading edge of supporting these new features. It's also one of the faster browsers.  
+
+Download it here: 
+[https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html)

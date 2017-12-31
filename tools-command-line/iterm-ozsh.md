@@ -14,7 +14,10 @@ This section will help guide you through the following steps:
 ## Install oh-my-zsh {#oh-my-zsh}
 1. Navigate to [https://github.com/robbyrussell/oh-my-zsh\#basic-installation](https://github.com/robbyrussell/oh-my-zsh#basic-installation).
 
-1. Copy all the text in the gray box under the **via  curl** label and paste it at the prompt in iTerm2 and press `Enter`:(https://github.com/robbyrussell/oh-my-zsh#basic-installation)
+1. Copy all the text under the **via curl** label in the "Basic Installation" section of the GitHub page. Paste into the prompt in iTerm2 and press `Enter`.
+   
+   The **via curl** section looks like this:
+   (https://github.com/robbyrussell/oh-my-zsh#basic-installation)
 ![](images/image07png.png)
 
 1. Enter the password that you use to login to your computer when prompted.
@@ -29,8 +32,7 @@ Type your full password and press `Enter`.
 ![](images/image11png.png)
 
 
-#### Oh-my-zsh benefits
-
+{% hint style='info' %}
 Oh-my-zsh helps identify certain things with different colors. Here are some of the colors you might run across.
 
 * Your arrow indicating your prompt will be green.
@@ -41,3 +43,5 @@ Oh-my-zsh helps identify certain things with different colors. Here are some of 
 * If you’re in a git repository your branch name will display in a salmon color.
 
 * If you have uncommitted version control changes made in the repository that you’re in, you’ll see a yellow x symbol at the end of your prompt line.
+{% endhint %}
+
