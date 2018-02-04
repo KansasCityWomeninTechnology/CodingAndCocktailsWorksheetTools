@@ -1,14 +1,23 @@
-<div>
-    <img src="assets/logo.png" style="float: left; margin: 0px 15px 15px 0px; height:125px;">
-    <h2 style="display:inline-block;margin-top:1em;">Coding &amp; Cocktails Session:</h2>
-    <h3 style="margin-top:0;margin-bottom:2em;">The Tools</h3>
-</div>
-<hr>
+# Coding & Cocktails Tools
 
-### Overview
+This `docs` directory contains documentation for setting up tools needed for Coding & Cocktails and published on Gitbooks: [Coding & Cocktails - The Tools](https://www.gitbook.com/book/codingandcocktailskc/coding-cocktails-the-tools/details).
 
-During the sessions, we’ll use some programs and accounts to help with our coding. These are the tools many developers use on a regular basis.
+## Getting Going
+Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.
 
-{% hint style='tip' %}
-Don't know a term?   [Click here to check out our glossary!](http://bit.ly/CnCgloss)
-{% endhint %}
+```bash
+gitbook install
+gitbook serve
+```
+To build without serving, `gitbook build`.
+
+
+## License
+![](https://lh6.googleusercontent.com/osprAumZLusoNUcKnPtOWMijWYLZ8ydrUS0gMTvMCoyhSVBd69InqiXqQjc7fH8iQiVbZLXvyyvPZXwKjeyHuPnrd2zJT1mYLa1WoziryvxOo0q7nvMnpfeeVPBgfqW0bnp1--wa)![](https://lh5.googleusercontent.com/AZZipN4uXuU6FkxA0zLbrq9EwMhky22oNI8UtjQ2-Kgzy64Jmbij_IKUwXDcqGjnHWSMg9h3ii2Dx_SLI871nVn56NyF1VnmDbkEL2m9sJ_9YYGpNC8kdiYepai1jAZLEWWt8iTW)![](https://lh6.googleusercontent.com/GSxH81qYzBJkBR39GbviwKcwxem0RbN8XTx_6BOHgziQ6OomnG-au25ZSdiNQ4rX2p2HanRGa8_SzTPhJ3SKW-Vrs6fJ8N9s0FLq1EVSwUZXrLZuUVONachwFWwqTr6PMpn1csnu)
+
+This work is licensed by [http://kcwomenintech.org/](http://kcwomenintech.org/) under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+
+
+
+

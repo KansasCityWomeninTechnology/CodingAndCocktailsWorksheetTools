@@ -1,4 +1,9 @@
 {
+    "root": "./docs",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
     "plugins": [
         "sectionx",
         "custom-favicon",
@@ -6,7 +11,7 @@
         "codeblock-label",
         "anchors"
     ],
-    "pluginsConfig" : {
+    "pluginsConfig": {
         "favicon": "assets/favicon.ico",
         "hints": {
             "info": "fa fa-info-circle fa-lg",
@@ -15,5 +20,4 @@
             "working": "fa fa-wrench fa-lg"
         }
     }
-
 }
