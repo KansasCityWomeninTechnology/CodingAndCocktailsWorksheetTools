@@ -75,6 +75,9 @@ Always run Cmder as administrator. Doing so will ensure Cmder has file access it
 1. When you start Cmder, right click on the pinned icon, select **More** <i class="fa fa-long-arrow-right"></i> **Run as administrator**.
 
 
+## Using Cmder {#using-cmder}
+{% include "./using-cmder.md" %}
+
 {% hint style='info' %}
 Cmder helps identify certain things with different symbols and colors. Here are some of the symbols and colors you might run across.
 
@@ -85,5 +88,7 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 * If you’re in a git repository your branch name will display right after the name of the directory you're in.
 
 * If you have uncommitted version control changes made in the repository that you’re in, the branch name will turn red.
+
+* You can edit settings (such as changing color themes or font size) by clicking the hamburger menu on the bottom right of the Cmder window and selecting **Settings...**.
 {% endhint %}
 
