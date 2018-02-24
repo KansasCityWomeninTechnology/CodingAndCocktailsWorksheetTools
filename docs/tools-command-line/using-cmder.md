@@ -24,14 +24,14 @@ Follow the instructions below to open different shells.
 This is the standard shell. You are using Windows cmd but Cmder adds extra functionality. You can use some Linux operating system functionality in this shell. This is the default shell when you start Cmder and most worksheets will use this shell.
 
 ### bash Shell
-This shell the best emulates Linux operating system. It's not an exact match but it's close. You can still use Windows cmd operations in this shell.
+This shell best emulates the Linux operating system. It's not an exact match but it's close. You can still use Windows cmd operations in this shell.
 
-The first time you run bash, it will make changes on your machine and create a file for your user profile.
+The first time you run bash shell, it will make changes on your machine and create a file for your user profile.
 ![](images/bash.png)
 
 ### powershell Shell
-This is the shell that wraps Windows PowerShell. PowerShell is more powerful than Windows cmd shell and has scripting capability built in. It is most commonly used by System Administrators. You can [read more about PowerShell here](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6).
+This is the shell that wraps Windows PowerShell. PowerShell is more powerful than Windows cmd shell and has scripting capability built in. PowerShell is most commonly used by System Administrators. You can [read more about PowerShell here](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6).
 
-The first time you run powershell, it will make changes on your machine and create a file for your user profile.
+The first time you run PowerShell shell, it will make changes on your machine and create a file for your user profile.
 ![](images/powershell.png)
 
