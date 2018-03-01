@@ -1,19 +1,5 @@
 @import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
-@import 'fac.css';
-@import 'checklist.css';
-
-
-background {
-   background-color: #ba99c0
-}
-
-.inline {
-  display: inline;
-}
-
-.lavender {
-  background-color: #ba99c0;
-}
+@import 'instructions.css';
 
 .markdown-section h2 {
   margin-top: 60px;

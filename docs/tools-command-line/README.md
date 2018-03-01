@@ -7,14 +7,8 @@ The command prompt is what we use to enter specific commands for some of our too
 A command line tool is also referred to as a "terminal".
 {% endhint %}
 
-Click on the arrow (^) below to expand the section for your operating system.
+## Mac Users
+Follow the link for instructions to [install and use iTerm2 with oh-my-zsh](/tools-command-line/iterm-ozsh.html).
 
-<!--sec data-title="Windows" data-id="section0" data-show=true data-collapse=true ces-->
-{% include "./cmder.md" %}
-
-<!--endsec-->
-
-<!--sec data-title="Mac" data-id="section1" data-show=true data-collapse=true ces-->
-{% include "./iterm-ozsh.md" %}
-
-<!--endsec-->
+## Windows Users
+Follow the link for instructions to [install and use Cmder](/tools-command-line/cmder.html).
