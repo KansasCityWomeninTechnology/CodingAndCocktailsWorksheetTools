@@ -4,22 +4,34 @@
     background-color: #fceaf1;
     border-radius: 5px;
     border: 1px solid #ba99c0;
-    padding: 10px; 
     color: #484e78;
   }
   
   .instructions ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0 0 0 10px;
+    margin: 10px;
   }
   
   .instructions ul li {
     margin-bottom: 8px;
   }
-  
+
   .instructions ul li:last-child {
     margin-bottom: none;
+  }
+
+  .check {
+    color: #009875;
+    line-height: normal;
+    padding: 3px;
+  }
+  
+  .instructions .text {
+    font-size: 1.2em;
+    display: inline-block;
+  }
+
+  .navigate-arrow {
+    margin-left: 15px;
   }
   
   .instructions a {
@@ -33,5 +45,11 @@
   .section-name {
     color: #484e78;
     font-weight: bold;
+  }
+
+  .navigate-top a {
+    color: #666b8f;
+    font-size:0.7em;
+    padding-left: 15px;
   }
   
