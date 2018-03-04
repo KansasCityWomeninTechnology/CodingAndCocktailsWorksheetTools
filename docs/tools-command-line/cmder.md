@@ -46,7 +46,7 @@ Sort by "Date modified" if you can't easily find it.
 
    ![](images/cmder-unblock.PNG)
    {% hint style='danger' %}
-Make sure to unblock the download if this checkbox exists. Otherwise, the installation will look successful, but Cmder will not be able to start up and is unusable.
+Make sure to unblock the download if this checkbox exists. Otherwise, the installation looks successful, but Cmder cannot start up and becomes unusable.
    {% endhint %}
 
 1. Right click on "cmder" and select **Extract All...** and type in the location of your Cmder folder we created. Make sure to check "Show extracted files when complete" and click on **Extract**. When extract is complete, the file explorer will show your Cmder folder.
@@ -70,9 +70,9 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 
 
 ### Verify installation {#verify} <span class="navigate-top"><a href="#install" title="Take me to the top of section"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></a></span>
-1. Close the Cmder dialog by typing "exit" and pressing **Enter** or by clicking on the X in the upper right corner.
+1. Close the Cmder dialog by typing `exit` and pressing **Enter** or by clicking on the **X** in the upper right corner.
 
-1. Search for "cmder" in your taskbar. Windows should suggest "Cmder.exe Desktop app" as a best match. Right click on it and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**.
+1. Search for "cmder" in your taskbar. Windows should suggest "Cmder.exe Desktop app" as a best match. Right click on it and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**. If your only option after a right click is **Open file location**, select it and then right click on cmder.exe to run as administrator.
 
    {% hint style='danger' %}
 Always run Cmder as administrator. Doing so will ensure Cmder has file access it needs for session worksheets.
@@ -116,11 +116,13 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 ## Updating Cmder {#update-cmder} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 Identify if you need to update Cmder by opening your Cmder directory in the file explorer and identifying the version in the _Version v1.x.x_ file. If you have a version less than 1.3.5, you will need to update.
 
-1. Follow the instructions to [download Cmder](#download). We already have a "Cmder" folder in our home directory so no need to create a "Cmder" folder.
+1. Close cmder if you have it open.
+
+1. Follow the first two steps in the instructions to [download Cmder](#download). We already have a "Cmder" folder in our home directory so no need to create a "Cmder" folder.
 
 1. Follow the instructions to [extract Cmder](#extract) files. Windows will ask you if you want to **Replace or Skip Files**. Click **Replace the files in the destination**.  
 
-1. When the files finish copying to the "Cmder" folder, follow the steps in [install additional required files](#install). 
+1. When the files finish copying to the "Cmder" folder, follow the steps in [install additional required files](#additional-files) to allow Cmder to finish installation. You will not see the "Generating click initial settings" in the Cmder terminal when you start the application up. These files already exist from your initial installation.
 
 1. Verify installation by opening your "Cmder" folder and inspect the _Version v1.x.x_ file to ensure you have one greater than 1.3.4. It will keep your previous version file so you should see two.
 
