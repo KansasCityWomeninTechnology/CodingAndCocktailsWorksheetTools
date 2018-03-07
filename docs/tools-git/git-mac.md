@@ -6,23 +6,23 @@
       
       ![](images/homebrew.png)
       
-      3. In iTerm2 paste the text copied from the homebrew website at the arrow command prompt and press enter.
+      3. In iTerm2 paste the text copied from the Homebrew website at the arrow command prompt and press **Enter**.
       
-            1. If you are prompted to install Command Line Developer Tools select the "Install" button and accept the license agreement.
+            1. If you are prompted to install Command Line Developer Tools select the **Install** button and accept the license agreement.
             
             ![](images/license.png)
             
-            2. At the prompt `Press RETURN to continue or any other key to abort` press return/enter.
+            2. At the prompt "Press RETURN to continue or any other key to abort" press Return/Enter.
             
             3. When prompted, type in the password that you use to login to your computer.
             
             {% hint style='tip' %}
 It may look like you’re not typing anything in but this is 
 because it doesn’t want to display your password on the screen 
-for security. Just type your full password and press enter.
+for security. Just type your full password and press **Enter**.
             {% endhint %}
             
-            4. The process will run for a few minutes until it is complete.  When finished type `brew -v`.  This should display the version number of homebrew that you have installed. Your screen should look similar to the following:
+            4. The process will run for a few minutes until it completes.  When finished type `brew -v`.  This should display the version number of Homebrew that you have installed. Your screen should look similar to the following:
             
             ![](images/brew_done.png)
 
@@ -34,6 +34,6 @@ for security. Just type your full password and press enter.
       
       3. Now we need to configure our Git version control so that you can use it with GitHub later
 
-            1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own first and last name, keeping the quotation marks.
+            1. At the prompt (the green arrow) set your user name by running the command `git config --global user.name "Your Name"` replacing the text `Your Name` with your own full name, keeping the quotation marks.
 
-            2. Next, set your user email addres by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own actual email address.
+            2. Next, set your user email address by running the command `git config --global user.email youremail@example.com` replacing `youremail@example.com` with your own email address.
