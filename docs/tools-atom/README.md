@@ -59,7 +59,7 @@ There are optional plugins and themes you can install to help customize your IDE
 ### Themes
 Make it look pretty with themes.
 
-Click on the **Themes** button next to the search area to try searching for themes instead of packages.  
+Follow the instructions in the [Required Packages section](#required-packages) to open the **Settings** tab. Click on the **Themes** button next to the search area to search for themes instead of packages.  
   ![](images/themeInstall.png)
 
   Some popular themes include:

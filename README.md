@@ -3,13 +3,14 @@
 This `docs` directory contains documentation for setting up tools needed for Coding & Cocktails and published on Gitbooks: [Coding & Cocktails - The Tools](https://www.gitbook.com/book/codingandcocktailskc/coding-cocktails-the-tools/details).
 
 ## Getting Going
-Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.
 
 ```bash
-gitbook install
-gitbook serve
+npm install
+npm run docs:install
 ```
-To build without serving, `gitbook build`.
+
+To serve Gitbook, `npm start`.
+To build without serving, `npm run docs:build`.
 
 
 ## License

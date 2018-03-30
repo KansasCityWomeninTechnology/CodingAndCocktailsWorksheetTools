@@ -1,0 +1,34 @@
+{
+  "name": "tools",
+  "version": "0.0.0",
+  "description": "Instructions for installing Coding & Cocktails program tools",
+  "main": "docs/README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-plugin-codeblock-label": "^1.0.1",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-sectionx": "^3.1.0",
+    "gitbook-plugin-custom-favicon": "^0.0.4",
+    "gitbook-plugin-hints": "^1.0.2"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "docs:install": "gitbook install",
+    "docs:build": "gitbook build",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetTools.git"
+  },
+  "author": "Kansas City Women In Technology - Coding And Cocktails",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetTools/issues"
+  },
+  "homepage": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetTools#readme"
+}
