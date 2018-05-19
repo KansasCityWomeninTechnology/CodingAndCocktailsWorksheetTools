@@ -25,8 +25,11 @@ There are plugins required as part of the session and there are optional plugins
 {% include "./plugins-installation.md" %}
 ![](images/packageInstall.png)
 
-
+#### Required plugins for HTML session
 {% include "./required-session1.md" %}
+
+#### Required plugins for JavaScript sessions
+{% include "./required-session6.md" %}
 
 
 ## Optional - Review tips for using Atom {#tips}
