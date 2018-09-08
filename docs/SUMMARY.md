@@ -10,6 +10,9 @@
 ### Code Editor
 * [Atom](tools-atom/README.md)
 
+### Javascript Runtime
+* [Node](tools-node/README.md)
+
 ### Command Line Tools
 * [Overview](tools-command-line/README.md)
 * [Mac iTerm2](tools-command-line/iterm-ozsh.md)
@@ -18,14 +21,9 @@
 ### Directory Organization
 * [CodingandCocktails Directory](tips-directory-structure/README.md)
 
-
-
 ### Version Control
 * [Git](tools-git/README.md)
 
-### Javascript Runtime
-* [Node](tools-node/README.md)
-
-
-
+### Scaffolding Tools
+* [Angular CLI](tools-angular-cli/README.md)
 
