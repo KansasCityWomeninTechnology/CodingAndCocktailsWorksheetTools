@@ -9,7 +9,7 @@ Ensure you have **npm** installed and your **npm** version is **5.8 or greater**
 ## Install Or Upgrade Angular CLI
 1. In your terminal (iTerm2 or Cmder), type the following command and press `Enter`.
 ```bash
-npm install -g @angular/cli`
+npm install -g @angular/cli
 ```
 
 ## Verify
@@ -18,4 +18,4 @@ npm install -g @angular/cli`
 ng version
 ```
    You should see something like this. Ensure your Angular CLI version is **6.1 or greater**.
-   ![]("/images/version.png")
+   ![](images/version.png)
