@@ -31,6 +31,13 @@ There are plugins required as part of the session and there are optional plugins
 #### Required plugins for JavaScript sessions
 {% include "./required-session6.md" %}
 
+#### Required plugins for SPA sessions
+{% include "./required-session-session10.md" %}
+
+{% hint style="info" %}
+If you are prompted to install any dependencies select **Yes** to install them.
+{% endhint %}
+
 
 ## Optional - Review tips for using Atom {#tips}
 
