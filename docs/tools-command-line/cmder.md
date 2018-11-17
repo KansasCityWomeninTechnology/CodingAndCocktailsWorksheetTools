@@ -61,7 +61,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 ### Install additional required files {#additional-files} <span class="navigate-top"><a href="#install" title="Take me to the top of section"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></a></span>
 1.  Right click on Cmder application and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**.
 
-1. Cmder will display an warning dialog asking to install extra files. Click **Unblock and Continue**.
+1. Depending on the version of Cmder you are using, Cmder may display an warning dialog asking to install extra files. Click **Unblock and Continue**.
 
    ![](images/conemu-install.PNG)
 1. Cmder screen will display and process the required files in the background. When you see this screen, you're done!
@@ -107,9 +107,9 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 
 
 <!-- Trick markdown to give a little extra space -->
-## 
+<!-- ## 
 ## Using Cmder {#using-cmder} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
-{% include "./using-cmder.md" %}
+{% include "./using-cmder.md" %} -->
 
 <!-- Trick markdown to give a little extra space -->
 ## 
