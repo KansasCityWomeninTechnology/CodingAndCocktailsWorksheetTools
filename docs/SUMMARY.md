@@ -21,3 +21,6 @@
 ### Version Control
 * [Git](tools-git/README.md)
 
+### Deployment Tools
+* [Now](tools-now/README.md)
+

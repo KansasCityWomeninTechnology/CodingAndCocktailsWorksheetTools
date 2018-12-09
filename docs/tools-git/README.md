@@ -1,6 +1,6 @@
 ![](/assets/gitLogo.png)
 
-# Version Control
+# Version Control: Git and GitHub
 Git is version control software. It helps us keep track of different versions of our code and lets us collaborate with other developers on a project. We will use [**GitHub**](https://github.com), an essential cloud-based companion tool to Git. This is where your code repositories are stored.
 
 ## Create a Github account

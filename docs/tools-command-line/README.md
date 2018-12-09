@@ -8,7 +8,7 @@ A command line tool is also referred to as a "terminal".
 {% endhint %}
 
 ## Mac Users
-Follow the link for instructions to [install and use iTerm2 with oh-my-zsh](/tools-command-line/iterm-ozsh.html).
+Follow the link for instructions to [install and use iTerm2 with oh-my-zsh](/tools-command-line/iterm-ozsh.md).
 
 ## Windows Users
-Follow the link for instructions to [install and use Cmder](/tools-command-line/cmder.html).
+Follow the link for instructions to [install and use Cmder](/tools-command-line/cmder.md).
