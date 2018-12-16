@@ -40,6 +40,7 @@
   
   .instructions a:hover {
     color: #9d81a2;
+    text-decoration: none;
   }
   
   .section-name {

@@ -5,13 +5,10 @@
 * [Google Chrome](tools-browser/README.md)
 
 ### Accounts
-* [Slack, Codecademy, & CodePen](user-accounts/README.md)
+* [Slack, Codecademy, and CodePen](user-accounts/README.md)
 
 ### Code Editor
 * [Atom](tools-atom/README.md)
-
-### Javascript Runtime
-* [Node](tools-node/README.md)
 
 ### Command Line Tools
 * [Overview](tools-command-line/README.md)
@@ -24,6 +21,6 @@
 ### Version Control
 * [Git](tools-git/README.md)
 
-### Scaffolding Tools
-* [Angular CLI](tools-angular-cli/README.md)
+### Deployment Tools
+* [Now](tools-now/README.md)
 

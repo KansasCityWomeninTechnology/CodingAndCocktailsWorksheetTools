@@ -61,7 +61,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 ### Install additional required files {#additional-files} <span class="navigate-top"><a href="#install" title="Take me to the top of section"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></a></span>
 1.  Right click on Cmder application and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**.
 
-1. Cmder will display an warning dialog asking to install extra files. Click **Unblock and Continue**.
+1. Depending on the version of Cmder you are using, Cmder may display an warning dialog asking to install extra files. Click **Unblock and Continue**.
 
    ![](images/conemu-install.PNG)
 1. Cmder screen will display and process the required files in the background. When you see this screen, you're done!
@@ -72,7 +72,7 @@ Your Cmder folder location should be `C:\Users\[Your Login Name]\Cmder`. If you 
 ### Verify installation {#verify} <span class="navigate-top"><a href="#install" title="Take me to the top of section"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></a></span>
 1. Close the Cmder dialog by typing `exit` and pressing **Enter** or by clicking on the **X** in the upper right corner.
 
-1. Search for "cmder" in your taskbar. Windows should suggest "Cmder.exe Desktop app" as a best match. Right click on it and click on **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**. If your only option after a right click is **Open file location**, select it and then right click on cmder.exe to run as administrator.
+1. Search for "cmder" in your taskbar. Windows should suggest "Cmder.exe Desktop app" as a best match. Right click on it and select **More** <i class="fa fa-long-arrow-right"></i> **Run as administrator**. A User Account Control dialog will pop up. Click **Yes**. If your only option after a right click is **Open file location**, select it and then right click on cmder.exe to **Run as administrator**.
 
    {% hint style='danger' %}
 Always run Cmder as administrator. Doing so will ensure Cmder has file access it needs for session worksheets.
@@ -107,9 +107,9 @@ Cmder helps identify certain things with different symbols and colors. Here are 
 
 
 <!-- Trick markdown to give a little extra space -->
-## 
+<!-- ## 
 ## Using Cmder {#using-cmder} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
-{% include "./using-cmder.md" %}
+{% include "./using-cmder.md" %} -->
 
 <!-- Trick markdown to give a little extra space -->
 ## 
