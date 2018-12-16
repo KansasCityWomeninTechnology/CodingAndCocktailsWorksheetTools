@@ -2,7 +2,7 @@
 
 # Text Editor: Atom
 
-Atom is the Integrated Development Environment \(IDE\) we use. After downloading we will configure it with extra tools called _plugins_ that will make your coding life easier.
+Atom is the **I**ntegrated **D**evelopment **E**nvironment \(IDE\) we use. After downloading we will configure it with extra tools called _plugins_ that will make your coding life easier.
 
 This section will help guide you through the following steps:
 {% include "./navigation.html" %}
