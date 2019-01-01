@@ -1,5 +1,5 @@
 {
-    "root": "./docs",
+    "root": "./book",
     "structure": {
         "readme": "README.md",
         "summary": "SUMMARY.md"
@@ -12,7 +12,7 @@
         "anchors"
     ],
     "pluginsConfig": {
-        "favicon": "docs/assets/favicon.ico",
+        "favicon": "book/assets/favicon.ico",
         "hints": {
             "info": "fa fa-info-circle fa-lg",
             "tip": "fa fa-check-circle fa-lg",

@@ -2,9 +2,9 @@
   "name": "tools",
   "version": "0.0.0",
   "description": "Instructions for installing Coding & Cocktails program tools",
-  "main": "docs/README.md",
+  "main": "book/README.md",
   "directories": {
-    "doc": "docs"
+    "book": "book"
   },
   "dependencies": {
     "gitbook-plugin-anchors": "^0.7.1",
@@ -14,12 +14,17 @@
     "gitbook-plugin-sectionx": "^3.1.0"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "copyfiles": "^2.1.0",
+    "gitbook-cli": "^2.3.2",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
   },
   "scripts": {
-    "docs:install": "gitbook install",
-    "docs:build": "gitbook build",
-    "start": "gitbook serve"
+    "gitbook": "gitbook",
+    "book:install": "gitbook install",
+    "book:build": "gitbook build",
+    "start": "gitbook serve",
+    "book:deploy": "rimraf docs && mkdirp docs && copyfiles -u 1 \"./_book/**/!(*.md)\" docs"
   },
   "repository": {
     "type": "git",
