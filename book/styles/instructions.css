@@ -1,0 +1,56 @@
+/**** Custom instructions  ****/
+.instructions {
+    font-size:1.0em;
+    background-color: #fceaf1;
+    border-radius: 5px;
+    border: 1px solid #ba99c0;
+    color: #484e78;
+  }
+  
+  .instructions ul {
+    margin: 10px;
+  }
+  
+  .instructions ul li {
+    margin-bottom: 8px;
+  }
+
+  .instructions ul li:last-child {
+    margin-bottom: none;
+  }
+
+  .check {
+    color: #009875;
+    line-height: normal;
+    padding: 3px;
+  }
+  
+  .instructions .text {
+    font-size: 1.2em;
+    display: inline-block;
+  }
+
+  .navigate-arrow {
+    margin-left: 15px;
+  }
+  
+  .instructions a {
+    color: #666b8f;
+  }
+  
+  .instructions a:hover {
+    color: #9d81a2;
+    text-decoration: none;
+  }
+  
+  .section-name {
+    color: #484e78;
+    font-weight: bold;
+  }
+
+  .navigate-top a {
+    color: #666b8f;
+    font-size:0.7em;
+    padding-left: 15px;
+  }
+  
