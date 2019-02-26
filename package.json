@@ -24,7 +24,7 @@
     "book:install": "gitbook install",
     "book:build": "gitbook build",
     "start": "gitbook serve",
-    "book:deploy": "rimraf docs && mkdirp docs && copyfiles -u 1 \"./_book/**/!(*.md)\" docs"
+    "book:deploy": "npm run book:build && rimraf docs && mkdirp docs && copyfiles -u 1 \"./_book/**/!(*.md)\" docs"
   },
   "repository": {
     "type": "git",

@@ -2,6 +2,8 @@
 
 This `book` directory contains documentation for setting up tools needed for Coding & Cocktails and published on Gitbooks: [Coding & Cocktails - The Tools](https://www.gitbook.com/book/codingandcocktailskc/coding-cocktails-the-tools/details).
 
+It is also hosted as a Github page at [https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetTools/](https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetTools/)
+
 ## Getting Going
 
 ```bash
