@@ -1,0 +1,560 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Visual Studio Code · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-sectionx/sectionx.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-hints/plugin-hints.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-codeblock-label/block.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-anchors/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../tips-directory-structure/" />
+    
+    
+    <link rel="prev" href="../tools-browser/" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Overview
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Browser</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../tools-browser/">
+            
+                <a href="../tools-browser/">
+            
+                    
+                    Google Chrome
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Code Editor</li>
+        
+        
+    
+        <li class="chapter active" data-level="3.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Visual Studio Code
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Directory Organization</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../tips-directory-structure/">
+            
+                <a href="../tips-directory-structure/">
+            
+                    
+                    CodingandCocktails Directory
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Accounts</li>
+        
+        
+    
+        <li class="chapter " data-level="5.1" data-path="../user-accounts/">
+            
+                <a href="../user-accounts/">
+            
+                    
+                    Slack and Codecademy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">API Session Tools</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="../tools-node/">
+            
+                <a href="../tools-node/">
+            
+                    
+                    Node
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Visual Studio Code</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <p><img src="images/vscode-logo.png" alt=""></p>
+<h1 id="text-editor-microsoft-visual-studio-code"><a name="text-editor-microsoft-visual-studio-code" class="plugin-anchor" href="#text-editor-microsoft-visual-studio-code"><i class="fa fa-link" aria-hidden="true"></i></a>Text Editor: Microsoft Visual Studio Code</h1>
+<p>Visual Studio Code is the <strong>I</strong>ntegrated <strong>D</strong>evelopment <strong>E</strong>nvironment (<strong>IDE</strong>) we use. It&apos;s software that helps you write the code. <strong>IDE</strong>s can do a lot of amazing things, such as:</p>
+<ul>
+<li>highlight the code so it&apos;s easier to identify expressions</li>
+<li>suggest completions to what you type</li>
+<li>help you navigate easily through the files in your project</li>
+<li>and a lot more...</li>
+</ul>
+<p>After downloading we will configure it with extra tools called <em>extensions</em> that will make your coding life easier.</p>
+<p><div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>You&apos;ll often hear Visual Studio Code referred as VS Code.</p>
+</div></div></p>
+<p>This section will help guide you through the following steps:</p>
+<div class="instructions">
+    <ul class="fa-ul">
+        <li>
+            <a href="#download">
+                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
+                <span class="text">Download and install Visual Studio Code</span>
+                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#configure">
+                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
+                <span class="text">Configure Visual Studio Code by installing required extensions</span>
+                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
+            </a>
+
+        </li>
+        <li>
+            <a href="#tips">
+                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
+                <span class="text">Optional - Review tips for how to use Visual Studio Code</span>
+                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#customize">
+                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
+                <span class="text">Optional - Customize Visual Studio Code by installing optional extensions and themes</span>
+                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#keyboard-shortcuts">
+                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
+                <span class="text">Optional - Review helpful keyboard shortcuts for using Visual Studio Code </span>
+                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<h2 id="download"><a name="download" class="plugin-anchor" href="#download"><i class="fa fa-link" aria-hidden="true"></i></a>Download and install Visual Studio Code </h2>
+<p>Navigate to <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code download site</a> and click the download button for your Operating System. This will start downloading the VS Code installer. Run through the installation process.</p>
+<p>When the installation is complete Visual Studio should launch automatically. You will see a welcome screen that looks something like this.</p>
+<p><img src="images/vs-code-welcome.png" alt=""></p>
+<h2 id="configure"><a name="configure" class="plugin-anchor" href="#configure"><i class="fa fa-link" aria-hidden="true"></i></a>Configuring Visual Studio Code </h2>
+<p>Next, to get the most out of Visual Studio Code, we need to install extensions.</p>
+<p>If you have ever downloaded and installed a custom font to use in your word processing program, installing extensions is similar. They are features that can be individually installed to enhance your experience.</p>
+<p>We will install required extension and list optional extensions you can install at the end of the page to add a little pizzazz to your coding experience.</p>
+<h3 id="required-extensions"><a name="required-extensions" class="plugin-anchor" href="#required-extensions"><i class="fa fa-link" aria-hidden="true"></i></a>Required Extensions</h3>
+<p>Install the following required extensions:</p>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint" target="_blank">HTMLHint</a>- Provides HTML hints and helps identify potential mistakes </li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=spywhere.guides" target="_blank">Guides</a>- Adds indention guide lines making it easier for you to match tags in HTML, class style definitions in CSS, and nested JavaScript code</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Live Server</a>- Opens a tab in your default browser to view static webpages and automatically refreshes the webpage whenever you save changes in VS Code</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a>- Changes colors of opening and closing pairs of brackets to make it easier to identify nested JavaScript code</li>
+</ul>
+<p>To start installing extensions</p>
+<ol>
+<li>Select the <strong>Extensions</strong> icon on the left toolbar. </li>
+<li>Type the name of the extension in the input, in this case, type &quot;HTMLHint&quot;. </li>
+<li>Find &quot;HTMLHint&quot; by Mike Kaufman and press the <strong>Install</strong> button to the install the extension. You can press the <strong>Install</strong> button directly in the search results or in the extension&apos;s information page.</li>
+</ol>
+<p><img src="images/vs-code-install-extensions.png" alt="Visual Studio Code Extensions Menu"></p>
+<p>Repeat the 3 steps to install the other required extensions.</p>
+<p>Visual Studio Code may prompt you to reload after installing an extension. Make sure you press the <strong>Reload</strong> button when prompted or restart Visual Studio Code after installing all the required extensions if you didn&apos;t restart for each extension.</p>
+<h2 id="tips"><a name="tips" class="plugin-anchor" href="#tips"><i class="fa fa-link" aria-hidden="true"></i></a>Optional - Review tips for using Visual Studio Code </h2>
+<h3 id="uninstall-or-disable-an-extension"><a name="uninstall-or-disable-an-extension" class="plugin-anchor" href="#uninstall-or-disable-an-extension"><i class="fa fa-link" aria-hidden="true"></i></a>Uninstall or Disable an Extension</h3>
+<p>To uninstall or disable an extension, open the Extensions menu like we did above. VS Code displays your enabled extensions. Select the extension you want to uninstall or disable to view the extensions information page. Press the <strong>Uninstall</strong> or <strong>Disable</strong> button.</p>
+<h3 id="splitting-the-screen"><a name="splitting-the-screen" class="plugin-anchor" href="#splitting-the-screen"><i class="fa fa-link" aria-hidden="true"></i></a>Splitting the Screen</h3>
+<p>Right click on the tab you want to view in split mode and select an option to <strong>Split Up</strong>, <strong>Split Down</strong>, <strong>Split Left</strong>, or <strong>Split Right</strong>. Once you split your view, you can drag tabs over to the other columns or rows.</p>
+<h2 id="customize"><a name="customize" class="plugin-anchor" href="#customize"><i class="fa fa-link" aria-hidden="true"></i></a>Optional - Customize Visual Studio Code </h2>
+<p>There are optional plugins and themes you can install to help customize your IDE and make it your own. Open the <strong>Extensions</strong> menu, search for the extension name, and click install.</p>
+<h3 id="additional-plugins"><a name="additional-plugins" class="plugin-anchor" href="#additional-plugins"><i class="fa fa-link" aria-hidden="true"></i></a>Additional Plugins</h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank">Material Icon Theme</a>- Adds icons to files in the <strong>Explorer</strong> view to make it easier to find files</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="_blank">Code Spell Checker</a>- Calls attention to misspellings in your code. This is particularly helpful to ensure variable names are spelled correctly.</li>
+</ul>
+<h3 id="themes"><a name="themes" class="plugin-anchor" href="#themes"><i class="fa fa-link" aria-hidden="true"></i></a>Themes</h3>
+<p>Make it look pretty with themes. You will install themes the same way you install extensions.</p>
+<p>Visual Studio Code comes with a couple of themes built in, but you can find colors that speak to your personality by searching for themes in the <strong>Extension</strong> input. Type &quot;@category:themes&quot; to limit the extension search results to only show theme extensions.</p>
+<p><div class="alert alert-success hints-alert"><div class="hints-icon"><i class="fa fa-check-circle fa-lg"></i></div><div class="hints-container"><p> Click on the theme in the search results to view an example of the theme colors. </p>
+</div></div></p>
+<p>Some popular themes include</p>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming" target="_blank">Winter is Coming Theme</a>- Has both dark and light variants built in</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula" target="_blank">Dracula Official</a> </li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple" target="_blank">Shades of Purple</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl" target="_blank">Night Owl</a>- Has both dark and light variants built in</li>
+</ul>
+<p>Select the color theme you want to use in the <strong>Color Theme</strong> selector. To open the <strong>Color Theme</strong> selector, follow the instructions for your OS:</p>
+<p><strong>For Windows &amp; Linux users,</strong> navigate to <strong>File</strong> <img src="../assets/arrow-right.svg" alt=""> <strong>Preferences</strong> <img src="../assets/arrow-right.svg" alt=""> <strong>Color Theme</strong></p>
+<p><strong>For Mac users,</strong> navigate to <strong>Code</strong> <img src="../assets/arrow-right.svg" alt=""> <strong>Preferences</strong> <img src="../assets/arrow-right.svg" alt=""> <strong>Color Theme</strong></p>
+<p>In the <strong>Color Theme</strong> selector, select the theme you like out of the list.</p>
+<h3 id="keyboard-shortcuts"><a name="keyboard-shortcuts" class="plugin-anchor" href="#keyboard-shortcuts"><i class="fa fa-link" aria-hidden="true"></i></a>Keyboard Shortcuts </h3>
+<p><strong>Open VS Code in a folder from command line:</strong> <code>code .</code></p>
+<p><div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>Too many keyboard shortcuts?</p>
+<p>You can type what you&apos;re looking for in the <strong>Command Palette</strong>. Open the Command Palette by selecting <strong>View</strong> <img src="../assets/arrow-right.svg" alt=""> <strong>Command Palette...</strong> and type the action you want to do.</p>
+<p>To open the Command Palette quickly, use the keyboard shortcut <code>ctrl</code> + <code>shift</code> + <code>p</code>.</p>
+</div></div></p>
+<p><strong>Helpful Keyboard Shortcuts</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Command</th>
+<th style="text-align:left">Mac Key Combination</th>
+<th style="text-align:left">Windows Key Combination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Open Command Palette</td>
+<td style="text-align:left"><code>ctrl</code> + <code>shift</code> + <code>p</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>shift</code> + <code>p</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Select all</td>
+<td style="text-align:left"><code>cmd</code> + <code>a</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>a</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Cut</td>
+<td style="text-align:left"><code>cmd</code> + <code>x</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>x</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Copy</td>
+<td style="text-align:left"><code>cmd</code> + <code>c</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>c</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Paste</td>
+<td style="text-align:left"><code>cmd</code> + <code>v</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>v</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Undo</td>
+<td style="text-align:left"><code>cmd</code> + <code>z</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>z</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Save</td>
+<td style="text-align:left"><code>cmd</code> + <code>s</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>s</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Toggle comment</td>
+<td style="text-align:left"><code>cmd</code> + <code>f</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>f</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Go to file</td>
+<td style="text-align:left"><code>cmd</code> + <code>p</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>p</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Open terminal pane</td>
+<td style="text-align:left"><code>ctrl</code> + `</td>
+<td style="text-align:left"><code>ctrl</code> + `</td>
+</tr>
+<tr>
+<td style="text-align:left">Create new terminal</td>
+<td style="text-align:left"><code>ctrl</code> + <code>shift</code> + `</td>
+<td style="text-align:left"><code>ctrl</code> + <code>shift</code> + `</td>
+</tr>
+<tr>
+<td style="text-align:left">Auto-format file</td>
+<td style="text-align:left"><code>shift</code> + <code>option</code> + <code>f</code></td>
+<td style="text-align:left"><code>shift</code> + <code>alt</code> + <code>f</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Auto-format selection</td>
+<td style="text-align:left"><code>cmd</code>+ <code>k</code> <code>cmd</code> + <code>f</code></td>
+<td style="text-align:left"><code>ctrl</code>+ <code>k</code> <code>ctrl</code> + <code>f</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Indent</td>
+<td style="text-align:left"><code>cmd</code> + <code>]</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>]</code></td>
+</tr>
+<tr>
+<td style="text-align:left">Outdent line</td>
+<td style="text-align:left"><code>cmd</code> + <code>[</code></td>
+<td style="text-align:left"><code>ctrl</code> + <code>[</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Need more info?</strong> Refer to <a href="https://code.visualstudio.com/docs/getstarted/tips-and-tricks" target="_blank">VS Code&apos;s Documentation</a>.</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../tools-browser/" class="navigation navigation-prev " aria-label="Previous page: Google Chrome">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../tips-directory-structure/" class="navigation navigation-next " aria-label="Next page: CodingandCocktails Directory">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Visual Studio Code","level":"3.1","depth":1,"next":{"title":"CodingandCocktails Directory","level":"4.1","depth":1,"path":"tips-directory-structure/README.md","ref":"tips-directory-structure/README.md","articles":[]},"previous":{"title":"Google Chrome","level":"2.1","depth":1,"path":"tools-browser/README.md","ref":"tools-browser/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["sectionx","custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-check-circle fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-wrench fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"tools-vscode/README.md","mtime":"2019-11-24T19:13:18.593Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-11-24T19:15:04.586Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sectionx/sectionx.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
