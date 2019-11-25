@@ -79,10 +79,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../tools-git/" />
+    <link rel="next" href="../user-accounts/" />
     
     
-    <link rel="prev" href="../tools-command-line/cmder.html" />
+    <link rel="prev" href="../tools-vscode/" />
     
 
     </head>
@@ -147,82 +147,16 @@
 
     
         
-        <li class="header">Accounts</li>
-        
-        
-    
-        <li class="chapter " data-level="3.1" data-path="../user-accounts/">
-            
-                <a href="../user-accounts/">
-            
-                    
-                    Slack, Codecademy, and CodePen
-            
-                </a>
-            
-
-            
-        </li>
-    
-
-    
-        
         <li class="header">Code Editor</li>
         
         
     
-        <li class="chapter " data-level="4.1" data-path="../tools-atom/">
+        <li class="chapter " data-level="3.1" data-path="../tools-vscode/">
             
-                <a href="../tools-atom/">
-            
-                    
-                    Atom
-            
-                </a>
-            
-
-            
-        </li>
-    
-
-    
-        
-        <li class="header">Command Line Tools</li>
-        
-        
-    
-        <li class="chapter " data-level="5.1" data-path="../tools-command-line/">
-            
-                <a href="../tools-command-line/">
+                <a href="../tools-vscode/">
             
                     
-                    Overview
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="5.2" data-path="../tools-command-line/iterm-ozsh.html">
-            
-                <a href="../tools-command-line/iterm-ozsh.html">
-            
-                    
-                    Mac iTerm2
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="5.3" data-path="../tools-command-line/cmder.html">
-            
-                <a href="../tools-command-line/cmder.html">
-            
-                    
-                    Windows Cmder
+                    Visual Studio Code
             
                 </a>
             
@@ -237,7 +171,7 @@
         
         
     
-        <li class="chapter active" data-level="6.1" data-path="./">
+        <li class="chapter active" data-level="4.1" data-path="./">
             
                 <a href="./">
             
@@ -253,16 +187,36 @@
 
     
         
-        <li class="header">Version Control</li>
+        <li class="header">Accounts</li>
         
         
     
-        <li class="chapter " data-level="7.1" data-path="../tools-git/">
+        <li class="chapter " data-level="5.1" data-path="../user-accounts/">
             
-                <a href="../tools-git/">
+                <a href="../user-accounts/">
             
                     
-                    Git
+                    Slack and Codecademy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">API Session Tools</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="../tools-node/">
+            
+                <a href="../tools-node/">
+            
+                    
+                    Node
             
                 </a>
             
@@ -317,55 +271,11 @@
                                 
                                 <p><img src="images/folder.png" alt=""></p>
 <h1 id="organization-create-a-folder-for-coding--cocktails-work"><a name="organization-create-a-folder-for-coding--cocktails-work" class="plugin-anchor" href="#organization-create-a-folder-for-coding--cocktails-work"><i class="fa fa-link" aria-hidden="true"></i></a>Organization: Create a Folder For Coding &amp; Cocktails Work</h1>
-<p>This section will help guide you through the steps listed below. You can check </p>
-<div class="instructions">
-    <ul class="fa-ul">
-        <li>
-            <a href="#create-dir">
-                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
-                <span class="text">Create a folder for Coding &amp; Cocktails session work</span>
-                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
-            </a>
-        </li>
-        <li>
-            <a href="#windows-only-enable-viewing-file-extensions">
-                <i class="check fa-li fa fa-check-square-o fa-lg" aria-hidden="true"></i>
-                <span class="text">Windows only - Enable viewing file extensions</span>
-                <i class="fa fa-chevron-circle-down fa-lg navigate-arrow" title="Take me to this step" aria-hidden="true"></i>
-            </a>
-        </li>
-    </ul>
-</div>
-
 <h2 id="create-dir"><a name="create-dir" class="plugin-anchor" href="#create-dir"><i class="fa fa-link" aria-hidden="true"></i></a>Create a folder </h2>
 <p>Create a folder in your home directory called &quot;CodingAndCocktails&quot;. We&#x2019;ll create folders here for our different projects throughout the year.
 <div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>We use the terms <strong>&quot;Folder&quot;</strong> and <strong>&quot;Directory&quot;</strong> interchangeably.  They mean the same thing.</p>
 <p>Your home directory is typically <code>/users/yourname</code> on a Mac or <code>C:/Users/yourname</code> on a Windows machine.</p>
 <p>We&apos;re using the home directory because terminal applications usually open to home by default. </p>
-</div></div></p>
-<p>If you want to challenge yourself try creating the directory via the command line instead of through your file explorer!</p>
-<ol>
-<li>Open your command line tool (<strong>Cmder</strong> for Windows, <strong>iTerm2</strong> for Macs)</li>
-<li><p>Navigate to your home directory. In iTerm2 you can use <code>cd ~</code>. In Cmder you can use <code>cd %USERPROFILE%</code>. In Cmder, your home directory should be the default starting location.</p>
-<p> <div class="alert alert-success hints-alert"><div class="hints-icon"><i class="fa fa-check-circle fa-lg"></i></div><div class="hints-container"><p><code>cd</code> stands for change directory</p>
-<p><code>~</code> or <code>%USERPROFILE%</code> is a shortcut for your home directory.</p>
-</div></div></p>
-</li>
-<li><p>Create your CodingAndCocktails directory by running the command <code>mkdir CodingAndCocktails</code>.</p>
-<p> <div class="alert alert-success hints-alert"><div class="hints-icon"><i class="fa fa-check-circle fa-lg"></i></div><div class="hints-container"><p><code>mkdir</code> stands for make directory</p>
-<p>Then you provide the name of the directory that you want to create</p>
-</div></div></p>
-</li>
-<li><p>If you want to move into that directory use the <code>cd</code> command to get there: <code>cd CodingAndCocktails</code>.  </p>
-</li>
-</ol>
-<p>   You should have used the following commands
-   </p><p class="code-label">command</p><p></p>
-<pre><code class="lang-bash">   <span class="hljs-built_in">cd</span> ~
-   mkdir CodingAndCocktails
-   <span class="hljs-built_in">cd</span> CodingAndCocktails
-</code></pre>
-<p><div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>Most command line terminals (including the ones we use) are not case sensitive - but some are! For our purposes, a folder named CodingAndCocktails is the same as one named codingandcocktails.</p>
 </div></div></p>
 <sec data-title="Windows Only: Enable viewing file extensions" data-id="section0" data-show="true" data-collapse="true"><div class="panel panel-default"><div class="panel-heading"><h2 id="windows-only-enable-viewing-file-extensions"><a name="windows-only-enable-viewing-file-extensions" class="plugin-anchor" href="#windows-only-enable-viewing-file-extensions"><i class="fa fa-link" aria-hidden="true"></i></a>Windows Only: Enable viewing file extensions<a class="pull-right section atTitle btn btn-default" target="section0"><span class="fa fa-angle-up"></span></a></h2></div><div class="panel-collapse in" id="section0"><div class="panel-body">
 <ol>
@@ -403,12 +313,12 @@
 
             
                 
-                <a href="../tools-command-line/cmder.html" class="navigation navigation-prev " aria-label="Previous page: Windows Cmder">
+                <a href="../tools-vscode/" class="navigation navigation-prev " aria-label="Previous page: Visual Studio Code">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../tools-git/" class="navigation navigation-next " aria-label="Next page: Git">
+                <a href="../user-accounts/" class="navigation navigation-next " aria-label="Next page: Slack and Codecademy">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -419,7 +329,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"CodingandCocktails Directory","level":"6.1","depth":1,"next":{"title":"Git","level":"7.1","depth":1,"path":"tools-git/README.md","ref":"tools-git/README.md","articles":[]},"previous":{"title":"Windows Cmder","level":"5.3","depth":1,"path":"tools-command-line/cmder.md","ref":"tools-command-line/cmder.md","articles":[]},"dir":"ltr"},"config":{"plugins":["sectionx","custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-check-circle fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-wrench fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"tips-directory-structure/README.md","mtime":"2019-01-01T16:45:00.186Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-02-26T01:23:00.744Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"CodingandCocktails Directory","level":"4.1","depth":1,"next":{"title":"Slack and Codecademy","level":"5.1","depth":1,"path":"user-accounts/README.md","ref":"user-accounts/README.md","articles":[]},"previous":{"title":"Visual Studio Code","level":"3.1","depth":1,"path":"tools-vscode/README.md","ref":"tools-vscode/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["sectionx","custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-check-circle fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-wrench fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"tips-directory-structure/README.md","mtime":"2019-11-24T18:52:36.130Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-11-24T19:15:04.586Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

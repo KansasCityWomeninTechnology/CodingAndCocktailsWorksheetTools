@@ -1,14 +1,8 @@
-![](images/Slack.png) ![](images/codecademy.svg) ![](images/codepen.svg)
+![](images/Slack.png) ![](images/codecademy.svg)
 
-# User Accounts: Slack, Codecademy, and CodePen
+# User Accounts: Slack and Codecademy
 
 Coding & Cocktails supports your own efforts to learn to code. Between sessions, you will want to continue to practice on your own. We refer to these sites often in the sessions as tools designed to help you learn to code. The accounts are free unless you elect to buy a premium subscription but that is not necessary for anything we do here.
-
-## Required Accounts
-* **Github**: [https://github.com/](https://github.com/) - this is the essential cloud-based companion tool to Git. This is where your code repositories are stored.
-
-* **CodePen**: [https://www.codepen.io](https://www.codepen.io) - Write HTML, CSS, and JavaScript and get a real-time preview.
-
 
 ## Highly Recommended Accounts
 * **Slack**: [kcwit.slack.com](http://kcwit.slack.com) - our 24x7 chat room.  The \#codingandcocktails channel will help you keep in touch with your Coding & Cocktails girlfriends. Creating a Slack account is highly recommended.
