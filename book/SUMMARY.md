@@ -8,7 +8,7 @@
 * [Visual Studio Code](tools-vscode/README.md)
 
 ### Directory Organization
-* [CodingandCocktails Directory](tips-directory-structure/README.md)
+* [CodingAndCocktails Directory](tips-directory-structure/README.md)
 
 ### Accounts
 * [Slack and Codecademy](user-accounts/README.md)

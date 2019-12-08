@@ -1,4 +1,5 @@
-# API Tools- Node and npm
+![](images/nodejs.png) ![](images/npm.png)
+# API Tools: Node and npm
 
 {% hint style="tip" %}
 Node is only required for the API session so you may skip installing Node if you are not attending the API session.
