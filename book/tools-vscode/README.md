@@ -22,7 +22,7 @@ This section will help guide you through the following steps:
 
 Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and click the download button for your Operating System. This will start downloading the VS Code installer. Run through the installation process.
 
-When the installation is complete Visual Studio should launch automatically. You will see a welcome screen that looks something like this.
+When the installation is complete, launch Visual Studio Code if it didn't open automatically. You will see a welcome screen that looks something like this.
 
 ![](images/vs-code-welcome.png)
 

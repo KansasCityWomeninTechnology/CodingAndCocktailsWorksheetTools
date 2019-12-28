@@ -7,7 +7,8 @@ Create a folder in your home directory called "CodingAndCocktails". We’ll crea
 {% hint style='info' %}
 We use the terms **"Folder"** and **"Directory"** interchangeably.  They mean the same thing.
 
-Your home directory is typically `/users/yourname` on a Mac or `C:/Users/yourname` on a Windows machine.
+**macOS**- Your home directory is typically `/users/yourname` 
+**Windows OS**- Your home directory is typically `C:/Users/yourname`. You can use the shortcut `%userprofile%` by typing it into the navigation bar in the File Explorer.
 
 We're using the home directory because terminal applications usually open to home by default. 
 {% endhint %}
